@@ -1,0 +1,19 @@
+# 小红书收藏夹本地化 - 依赖包
+
+# FastAPI 后端
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# 异步文件操作
+aiofiles>=23.2.1
+aiohttp>=3.9.0
+
+# MediaCrawler 依赖（详见 MediaCrawler/requirements.txt）
+# 主要依赖：
+playwright>=1.40.0
+httpx>=0.25.0
+tenacity>=8.2.0
+
+# 注意：运行爬虫前需要安装 playwright 浏览器驱动
+# 执行：playwright install chromium
+

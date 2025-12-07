@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tozy知识库 - 小红书收藏汇集</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 左侧边栏 -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span class="logo-icon">📕</span>
+                    <span class="logo-text">Tozy知识库</span>
+                </div>
+                <p class="subtitle">小红书收藏汇集</p>
+            </div>
+            
+            <!-- 统计信息 -->
+            <div class="stats-card">
+                <div class="stat-row">
+                    <span class="stat-label">已下载</span>
+                    <span class="stat-value" id="stats-downloaded">-</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">待下载</span>
+                    <span class="stat-value" id="stats-pending">-</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="stat-row small">
+                    <span class="stat-label">存储占用</span>
+                    <span class="stat-value" id="stats-storage">-</span>
+                </div>
+            </div>
+            
+            <nav class="nav-menu">
+                <div class="nav-item active" data-album="全部笔记">
+                    <span class="nav-icon">📑</span>
+                    <span class="nav-text">全部笔记</span>
+                    <span class="nav-count" id="total-count">0</span>
+                </div>
+                
+                <div class="nav-item" data-album="已下载">
+                    <span class="nav-icon">✅</span>
+                    <span class="nav-text">已下载</span>
+                    <span class="nav-count" id="downloaded-count">0</span>
+                </div>
+                
+                <div class="nav-item" data-album="星标">
+                    <span class="nav-icon">⭐</span>
+                    <span class="nav-text">星标</span>
+                    <span class="nav-count" id="starred-count">0</span>
+                </div>
+                
+                <div class="nav-section">
+                    <div class="nav-section-header">
+                        <p class="nav-section-title">我的专辑</p>
+                        <button class="create-album-btn" id="create-album-btn" title="新建专辑">+</button>
+                    </div>
+                    <div id="album-list"></div>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 顶部搜索栏 -->
+            <header class="content-header">
+                <div class="header-left">
+                    <h1 class="page-title" id="page-title">全部笔记</h1>
+                    <span class="page-count" id="page-count"></span>
+                </div>
+                <div class="header-right">
+                    <div class="view-toggle">
+                        <button class="view-btn active" data-view="grid" title="网格视图">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="3" width="7" height="7"></rect>
+                                <rect x="14" y="3" width="7" height="7"></rect>
+                                <rect x="3" y="14" width="7" height="7"></rect>
+                                <rect x="14" y="14" width="7" height="7"></rect>
+                            </svg>
+                        </button>
+                        <button class="view-btn" data-view="list" title="列表视图">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <line x1="8" y1="6" x2="21" y2="6"></line>
+                                <line x1="8" y1="12" x2="21" y2="12"></line>
+                                <line x1="8" y1="18" x2="21" y2="18"></line>
+                                <line x1="3" y1="6" x2="3.01" y2="6"></line>
+                                <line x1="3" y1="12" x2="3.01" y2="12"></line>
+                                <line x1="3" y1="18" x2="3.01" y2="18"></line>
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="search-box">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="search-input" placeholder="搜索标题、作者、标签...">
+                        <button class="search-clear" id="search-clear" style="display: none;">×</button>
+                    </div>
+                    <select class="filter-select" id="filter-type">
+                        <option value="all">全部类型</option>
+                        <option value="normal">图文笔记</option>
+                        <option value="video">视频笔记</option>
+                    </select>
+                    <select class="filter-select" id="filter-learning">
+                        <option value="all">全部状态</option>
+                        <option value="learned">已学习</option>
+                        <option value="unlearned">未学习</option>
+                    </select>
+                </div>
+            </header>
+
+            <!-- 笔记网格 -->
+            <div class="notes-grid" id="notes-grid">
+                <!-- 笔记卡片将通过 JS 动态插入 -->
+            </div>
+
+            <!-- 加载更多 -->
+            <div class="load-more" id="load-more">
+                <button class="load-more-btn" id="load-more-btn">加载更多</button>
+            </div>
+
+            <!-- 空状态 -->
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-icon">📭</div>
+                <p class="empty-text">暂无笔记</p>
+                <p class="empty-hint">尝试切换专辑或修改搜索条件</p>
+            </div>
+            
+            <!-- 加载状态 -->
+            <div class="loading-state" id="loading-state" style="display: none;">
+                <div class="loading-spinner"></div>
+                <p>加载中...</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- 笔记详情弹窗 -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close">×</button>
+            
+            <div class="modal-body">
+                <!-- 左侧：图片/视频 -->
+                <div class="modal-media">
+                    <div class="media-container" id="media-container">
+                        <!-- 媒体内容 -->
+                    </div>
+                    <div class="media-nav" id="media-nav">
+                        <button class="media-nav-btn prev" id="media-prev">‹</button>
+                        <span class="media-indicator" id="media-indicator">1 / 1</span>
+                        <button class="media-nav-btn next" id="media-next">›</button>
+                    </div>
+                </div>
+
+                <!-- 右侧：详情 -->
+                <div class="modal-detail">
+                    <div class="detail-header">
+                        <img class="detail-avatar" id="detail-avatar" src="" alt="">
+                        <div class="detail-author-info">
+                            <span class="detail-author" id="detail-author"></span>
+                            <span class="detail-album" id="detail-album"></span>
+                        </div>
+                        <div class="detail-header-badges">
+                            <button class="detail-star-btn" id="detail-star-btn" title="星标">
+                                ⭐
+                            </button>
+                            <span class="detail-local-badge" id="detail-local-badge">已下载</span>
+                        </div>
+                    </div>
+
+                    <h2 class="detail-title" id="detail-title"></h2>
+                    
+                    <div class="detail-content" id="detail-content"></div>
+
+                    <div class="detail-tags" id="detail-tags"></div>
+
+                    <div class="detail-stats">
+                        <div class="detail-stats-left">
+                            <span class="stat-item">
+                                <span class="stat-icon">❤️</span>
+                                <span id="detail-likes">0</span>
+                            </span>
+                            <span class="stat-item">
+                                <span class="stat-icon">⭐</span>
+                                <span id="detail-collects">0</span>
+                            </span>
+                            <span class="stat-item">
+                                <span class="stat-icon">💬</span>
+                                <span id="detail-comments">0</span>
+                            </span>
+                            <span class="stat-item">
+                                <span class="stat-icon">🔄</span>
+                                <span id="detail-shares">0</span>
+                            </span>
+                        </div>
+                        <button class="action-btn learning-btn" id="detail-learning-btn">
+                            ○ 未学习
+                        </button>
+                    </div>
+
+                    <div class="detail-actions">
+                        <a class="action-btn secondary" id="detail-link" href="" target="_blank">
+                            🔗 查看原文
+                        </a>
+                        <a class="action-btn secondary" id="immersive-view" href="#">
+                            🎬 沉浸式查看
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Toast 提示 -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <!-- 新建专辑弹窗 -->
+    <div class="modal-overlay" id="create-album-modal" style="display: none;">
+        <div class="modal-content small-modal">
+            <button class="modal-close" id="create-album-close">×</button>
+            <div class="modal-body">
+                <h2 class="modal-title"><span class="modal-title-icon">📁</span>新建专辑</h2>
+                <div class="form-group">
+                    <label for="album-name-input">专辑名称</label>
+                    <input type="text" id="album-name-input" class="form-input" placeholder="请输入专辑名称" maxlength="50">
+                </div>
+                <div class="modal-actions">
+                    <button class="btn-secondary" id="create-album-cancel">取消</button>
+                    <button class="btn-primary" id="create-album-submit">创建</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 选择专辑弹窗（用于复制/移动笔记） -->
+    <div class="modal-overlay" id="select-album-modal" style="display: none;">
+        <div class="modal-content small-modal">
+            <button class="modal-close" id="select-album-close">×</button>
+            <div class="modal-body">
+                <h2 class="modal-title" id="select-album-title">选择专辑</h2>
+                <div class="album-select-list" id="album-select-list">
+                    <!-- 专辑列表将通过 JS 动态插入 -->
+                </div>
+                <div class="modal-actions">
+                    <button class="btn-secondary" id="select-album-cancel">取消</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
