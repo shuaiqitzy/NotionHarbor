@@ -1,0 +1,450 @@
+{
+  "note_id": "69248234000000001e022a23",
+  "title": "你的第一份LLM算法实习指南",
+  "desc": "三方签完，秋招落幕，工作尘埃落定。回头想想，拿到的不少Offer，很大程度上归功于之前几段实打实的实习经历带给我的经验和面试官的认可。\n\t\n我的第一份实习从一家AI初创公司开始，后面骑驴找马又去了某厂实习做agent。\n\t\n看到很多学弟学妹也踏上了找实习的路，于是我决定不如把自己的经历写下来，希望能帮大家少走点弯路，更快锁定好机会。\n\t\n#互联网大厂[话题]# #算法[话题]# #大模型[话题]# #斩获offer的秘诀[话题]# #秋招人的精神状态[话题]# #实习[话题]# #文科转码[话题]# #大厂[话题]# #找实习[话题]# #实习[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g746jc320605putflq1ibj7ob4dtig?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "互联网大厂",
+      "type": "topic",
+      "id": "5fd62942000000000100036d"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "5df0a5b20000000001008fba",
+      "name": "斩获offer的秘诀",
+      "type": "topic"
+    },
+    {
+      "id": "633c1a79000000000101df9c",
+      "name": "秋招人的精神状态",
+      "type": "topic"
+    },
+    {
+      "id": "5c08e5789346b10001dcd676",
+      "name": "实习",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "6075040b0000000001000e2e",
+      "name": "文科转码"
+    },
+    {
+      "id": "5c5a83da000000000f024b98",
+      "name": "大厂",
+      "type": "topic"
+    },
+    {
+      "name": "找实习",
+      "type": "topic",
+      "id": "5d8984ef000000000103dbba"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 2400,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/b32f4781e0f8352a6ac908044ccf28b1/1040g00831p9avdlqis605putflq1ibj7qs9at10!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/b32f4781e0f8352a6ac908044ccf28b1/1040g00831p9avdlqis605putflq1ibj7qs9at10!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/b4df479e9817834cd34d33ccebabb2a1/1040g00831p9avdlqis605putflq1ibj7qs9at10!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/b4df479e9817834cd34d33ccebabb2a1/1040g00831p9avdlqis605putflq1ibj7qs9at10!nd_dft_wlteh_webp_3",
+      "width": 1440
+    },
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/8ee5c5b1495fad9b31526ca097808da5/1040g00831p9avdlqis505putflq1ibj7cruj61o!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 1440,
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/30236085e574a0dbb10403e530e01693/1040g00831p9avdlqis505putflq1ibj7cruj61o!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "height": 2400,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/8ee5c5b1495fad9b31526ca097808da5/1040g00831p9avdlqis505putflq1ibj7cruj61o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/30236085e574a0dbb10403e530e01693/1040g00831p9avdlqis505putflq1ibj7cruj61o!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ]
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/f6a407a44e3513cd53f0e276a6bfe291/1040g2sg31p9b4dpb2ujg5putflq1ibj7opvg6n0!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "width": 1440,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/e03291fdab6a9f9ebc090c74f1210bda/1040g2sg31p9b4dpb2ujg5putflq1ibj7opvg6n0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/f6a407a44e3513cd53f0e276a6bfe291/1040g2sg31p9b4dpb2ujg5putflq1ibj7opvg6n0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/e03291fdab6a9f9ebc090c74f1210bda/1040g2sg31p9b4dpb2ujg5putflq1ibj7opvg6n0!nd_prv_wlteh_webp_3",
+      "trace_id": "",
+      "live_photo": false,
+      "file_id": "",
+      "height": 2400,
+      "url": ""
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/1d8e815b76532a649b45acd61af0c8d0/1040g2sg31p9b4dpb2ukg5putflq1ibj7ohrf7m8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/8d665aa5d6b02b8507f2fb30547e3a13/1040g2sg31p9b4dpb2ukg5putflq1ibj7ohrf7m8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/1d8e815b76532a649b45acd61af0c8d0/1040g2sg31p9b4dpb2ukg5putflq1ibj7ohrf7m8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/8d665aa5d6b02b8507f2fb30547e3a13/1040g2sg31p9b4dpb2ukg5putflq1ibj7ohrf7m8!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "trace_id": ""
+    },
+    {
+      "live_photo": false,
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/c08373c17bc9a5b46753bd8502ec6b6f/1040g2sg31p9b4dpb2uj05putflq1ibj7s3m81c8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/0b41258e65bed2241a858b05c16db236/1040g2sg31p9b4dpb2uj05putflq1ibj7s3m81c8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/0b41258e65bed2241a858b05c16db236/1040g2sg31p9b4dpb2uj05putflq1ibj7s3m81c8!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/c08373c17bc9a5b46753bd8502ec6b6f/1040g2sg31p9b4dpb2uj05putflq1ibj7s3m81c8!nd_prv_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/6956d20f7519bdd16303135ef9fbbd9a/1040g2sg31p9b4dnqig6g5putflq1ibj7k72hpng!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/8dfc50e25d50b344671fef0b7d80caa8/1040g2sg31p9b4dnqig6g5putflq1ibj7k72hpng!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/6956d20f7519bdd16303135ef9fbbd9a/1040g2sg31p9b4dnqig6g5putflq1ibj7k72hpng!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/8dfc50e25d50b344671fef0b7d80caa8/1040g2sg31p9b4dnqig6g5putflq1ibj7k72hpng!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "live_photo": false
+    },
+    {
+      "file_id": "",
+      "height": 2400,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/9800d3513e2c65ae672147cdd72f5a2c/1040g2sg31p9b4dm6is6g5putflq1ibj7hee3328!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/7bed013598e1f0dac5e6a59363ae20a9/1040g2sg31p9b4dm6is6g5putflq1ibj7hee3328!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/9800d3513e2c65ae672147cdd72f5a2c/1040g2sg31p9b4dm6is6g5putflq1ibj7hee3328!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/7bed013598e1f0dac5e6a59363ae20a9/1040g2sg31p9b4dm6is6g5putflq1ibj7hee3328!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "live_photo": false
+    },
+    {
+      "file_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/a2fe6856f1b483246714bc0dc60d21d1/1040g00831p9avdlqis0g5putflq1ibj7bqbcceg!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/574728941d2e9b4bfeb7a58cc77a9446/1040g00831p9avdlqis0g5putflq1ibj7bqbcceg!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/a2fe6856f1b483246714bc0dc60d21d1/1040g00831p9avdlqis0g5putflq1ibj7bqbcceg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/574728941d2e9b4bfeb7a58cc77a9446/1040g00831p9avdlqis0g5putflq1ibj7bqbcceg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "trace_id": ""
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/d17b995cd563853018a6a80dc601e7b0/1040g00831p9avdlqis1g5putflq1ibj7eom42m8!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/33ff94bce40160217621172b67baec15/1040g00831p9avdlqis1g5putflq1ibj7eom42m8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "height": 2400,
+      "width": 1440,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/d17b995cd563853018a6a80dc601e7b0/1040g00831p9avdlqis1g5putflq1ibj7eom42m8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/33ff94bce40160217621172b67baec15/1040g00831p9avdlqis1g5putflq1ibj7eom42m8!nd_dft_wlteh_webp_3"
+    },
+    {
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/70fa9913a92d2943118318d2ccca47eb/1040g00831p9avdlqis305putflq1ibj7o9bhhv8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/91fff246b397a275ac8d34635e587e5b/1040g00831p9avdlqis305putflq1ibj7o9bhhv8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "live_photo": false,
+      "file_id": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/70fa9913a92d2943118318d2ccca47eb/1040g00831p9avdlqis305putflq1ibj7o9bhhv8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/91fff246b397a275ac8d34635e587e5b/1040g00831p9avdlqis305putflq1ibj7o9bhhv8!nd_dft_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "height": 2400,
+      "url": "",
+      "stream": {},
+      "width": 1440,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/716b2c9deddea51a11a3bf2127365a9a/1040g00831p9avdlqis105putflq1ibj7man1nc0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/158544707bf041f8bd4b5a6a5ed53df5/1040g00831p9avdlqis105putflq1ibj7man1nc0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/716b2c9deddea51a11a3bf2127365a9a/1040g00831p9avdlqis105putflq1ibj7man1nc0!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/158544707bf041f8bd4b5a6a5ed53df5/1040g00831p9avdlqis105putflq1ibj7man1nc0!nd_dft_wlteh_webp_3",
+      "live_photo": false
+    },
+    {
+      "height": 2400,
+      "width": 1440,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/2b349ebe0d07372dbfa3025f93da2588/1040g00831p9avdlqis5g5putflq1ibj7l2hrsd0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/c28fd2b8df5be3599abb28a3fc248fbb/1040g00831p9avdlqis5g5putflq1ibj7l2hrsd0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/2b349ebe0d07372dbfa3025f93da2588/1040g00831p9avdlqis5g5putflq1ibj7l2hrsd0!nd_prv_wlteh_webp_3",
+      "file_id": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/c28fd2b8df5be3599abb28a3fc248fbb/1040g00831p9avdlqis5g5putflq1ibj7l2hrsd0!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url": ""
+    },
+    {
+      "file_id": "",
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/4c441c2014f9f04c88e481290f7d351d/1040g00831p9avdlqis205putflq1ibj753v9oog!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/1cdf17ec070bf289b5e8c4daaa3648b0/1040g00831p9avdlqis205putflq1ibj753v9oog!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/4c441c2014f9f04c88e481290f7d351d/1040g00831p9avdlqis205putflq1ibj753v9oog!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/1cdf17ec070bf289b5e8c4daaa3648b0/1040g00831p9avdlqis205putflq1ibj753v9oog!nd_dft_wlteh_webp_3",
+      "trace_id": "",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "width": 1440,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/a237904f3df4e40415af8800bcd20824/1040g00831p9avdlqis2g5putflq1ibj782rq15o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/b205e8da7d6bac7fd8874f75c8227951/1040g00831p9avdlqis2g5putflq1ibj782rq15o!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/a237904f3df4e40415af8800bcd20824/1040g00831p9avdlqis2g5putflq1ibj782rq15o!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/b205e8da7d6bac7fd8874f75c8227951/1040g00831p9avdlqis2g5putflq1ibj782rq15o!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "url": "",
+      "height": 2400
+    },
+    {
+      "stream": {},
+      "live_photo": false,
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/8d5ff9e371d7dbca69503cb69dd18703/1040g00831p9avdlqis3g5putflq1ibj7jkf5m20!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/72b102d2c83a16904b913148e09abcac/1040g00831p9avdlqis3g5putflq1ibj7jkf5m20!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/8d5ff9e371d7dbca69503cb69dd18703/1040g00831p9avdlqis3g5putflq1ibj7jkf5m20!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/72b102d2c83a16904b913148e09abcac/1040g00831p9avdlqis3g5putflq1ibj7jkf5m20!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "height": 2400
+    },
+    {
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/609b087d0d427a8da898c2f72e831590/1040g00831p9avdlqis405putflq1ibj7j4ii9m8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/da9a3b21b2579edeae2aa81df5b88953/1040g00831p9avdlqis405putflq1ibj7j4ii9m8!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/da9a3b21b2579edeae2aa81df5b88953/1040g00831p9avdlqis405putflq1ibj7j4ii9m8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/609b087d0d427a8da898c2f72e831590/1040g00831p9avdlqis405putflq1ibj7j4ii9m8!nd_prv_wlteh_webp_3",
+      "live_photo": false
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/a14449e53b1f628de61d6b95e8e87c71/1040g00831p9avdlqis4g5putflq1ibj7rsovf38!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/c57c06f38646a9cd2efa5f8ecd2ee6f4/1040g00831p9avdlqis4g5putflq1ibj7rsovf38!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/a14449e53b1f628de61d6b95e8e87c71/1040g00831p9avdlqis4g5putflq1ibj7rsovf38!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "height": 2400,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/c57c06f38646a9cd2efa5f8ecd2ee6f4/1040g00831p9avdlqis4g5putflq1ibj7rsovf38!nd_dft_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/41cbc140185df79b62f58933335ee210/1040g00831p9avdlqis005putflq1ibj7uq47428!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/c78195304d6e550e6f4c3b4036eec049/1040g00831p9avdlqis005putflq1ibj7uq47428!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/41cbc140185df79b62f58933335ee210/1040g00831p9avdlqis005putflq1ibj7uq47428!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/c78195304d6e550e6f4c3b4036eec049/1040g00831p9avdlqis005putflq1ibj7uq47428!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 2400,
+      "width": 1440,
+      "trace_id": ""
+    }
+  ],
+  "video_url": "",
+  "time": 1764027009000,
+  "last_update_time": 1764000309000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/69248234000000001e022a23",
+  "xsec_token": "ABwGdpd94FrUMhsckDeNGMWwWE5tE-e3zdUotNKq1alVw="
+}

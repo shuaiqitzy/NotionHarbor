@@ -1,0 +1,83 @@
+{
+  "note_id": "69207ee0000000001e00c8c2",
+  "title": "Claude Code 配合规格开发工具实测",
+  "desc": "最近“Spec-Driven Development” (SDD，规格驱动开发) 的概念很火 。作为一个重度 AI 编程依赖者，日常的工作和学习中，把市面上最火的三款 SDD 工具：GitHub Spec Kit、OpenSpec 和 BMAD Method 全部在 Claude Code 里试用了一下。\n\t\n[清单R]先说结论：个人感觉不如Claude code原生的 Plan mode 。（仅供参考，非专业测评，样本仅限于我自己从事的偏数据和算法类工作，偏开发类的工作好不好用我并不清楚，也没有测试）\n\t\n1. Speckit：试过从0-1新建项目，文档一堆一堆头头是道，一共给我拆解了28个任务。结果费了老半天跑完，发现基本功能都没有实现，气的直接删项目文件夹，重新用plan mode弄的，就很顺利。\n2. Openspec，使用下来感觉比speckit要好一些，对现有项目做一些修修补补用起来还行，但是也没有让我觉得特别惊艳。最后用着用着，我就直接变成和Clude code聊天了。\n3. Bmad，没有任何偏见的意思，可能是我太菜了，没有太搞明白它咋用的，也没耐心深入研究，用了一次就再没碰过了。\n\t\n写在最后：就我自己从事的工作类型和复杂度而言，个人还是比较喜欢这套工作流程：1） 先用Gemini 生成需求文档；2）在Claude  code 中开plan mode，让它理解需求文档，评估并优化。来回聊几轮，我再做一些修正和微调，再让Claude 输出项目架构和开发方案等；3）让Claude  code根据开发方案开始工作。\n\t\n一些不那么复杂的工作，这套流程的效果真的挺不错，而且效率很高，屡试不爽。\n\t\n#AI工具[话题]# #Claude[话题]# #Claude_Code[话题]# #Speckit[话题]# #Openspec[话题]# #BMadMethod[话题]# #vibecoding[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5da2b2de0000000001007790.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "635679cb000000000100505c",
+      "name": "AI工具",
+      "type": "topic"
+    },
+    {
+      "id": "610ae4710000000001001741",
+      "name": "Claude",
+      "type": "topic"
+    },
+    {
+      "id": "683fe4c00000000017039879",
+      "name": "Claude_Code",
+      "type": "topic"
+    },
+    {
+      "name": "Speckit",
+      "type": "topic",
+      "id": "69207e3e000000001d0037e4"
+    },
+    {
+      "id": "69207e3e000000001d0037e5",
+      "name": "Openspec",
+      "type": "topic"
+    },
+    {
+      "id": "68a1e9620000000006010212",
+      "name": "BMadMethod",
+      "type": "topic"
+    },
+    {
+      "id": "67c0e68e00000000040164b0",
+      "name": "vibecoding",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "stream": {},
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041112/61b5fbce4d3e833ac13bcec656db2d8a/notes_pre_post/1040g3k031p5cnl13ic6g5nd2mbf08tsgcjm5210!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041112/eb010a4b299f7f2e0700d97261453912/notes_pre_post/1040g3k031p5cnl13ic6g5nd2mbf08tsgcjm5210!nd_dft_wlteh_webp_3",
+      "width": 850,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/61b5fbce4d3e833ac13bcec656db2d8a/notes_pre_post/1040g3k031p5cnl13ic6g5nd2mbf08tsgcjm5210!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/eb010a4b299f7f2e0700d97261453912/notes_pre_post/1040g3k031p5cnl13ic6g5nd2mbf08tsgcjm5210!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "live_photo": false,
+      "file_id": "",
+      "height": 4541
+    }
+  ],
+  "video_url": "",
+  "time": 1763737312000,
+  "last_update_time": 1763737312000,
+  "album": "ClaudeCode",
+  "note_url": "https://www.xiaohongshu.com/explore/69207ee0000000001e00c8c2",
+  "xsec_token": "AB1_GfMMDEbaaGeh0d-R_cwX-qEJ7LzEHcdEBWR1Dyb5c="
+}

@@ -1,0 +1,47 @@
+{
+  "note_id": "67f345ac000000000b01d3fd",
+  "title": "cursor 做量化太上头了",
+  "desc": "两天用了 300/500的额度，本月最值花费\n初步完成外部数据库迁移、框架搭建、回测系统",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m3lj0n8l8305n5gqj2kf7eqv5a31j0?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [],
+  "image_list": [
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/22d2a5e26323007df9c5c97da913f6ae/1040g00831fv8eiirgi6g5n5gqj2kf7eq2u914mg!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 719,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/5141fee2f32a68c47a294940ede5db46/1040g00831fv8eiirgi6g5n5gqj2kf7eq2u914mg!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/22d2a5e26323007df9c5c97da913f6ae/1040g00831fv8eiirgi6g5n5gqj2kf7eq2u914mg!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "width": 1406,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/5141fee2f32a68c47a294940ede5db46/1040g00831fv8eiirgi6g5n5gqj2kf7eq2u914mg!nd_prv_wgth_webp_3",
+      "stream": {}
+    }
+  ],
+  "video_url": "",
+  "time": 1743996332000,
+  "last_update_time": 1743996332000,
+  "album": "量化",
+  "note_url": "https://www.xiaohongshu.com/explore/67f345ac000000000b01d3fd",
+  "xsec_token": "ABPXsg4lXChqoAgWR5_wzdg3xSNS4YaLSO6rc04eTXbHU="
+}

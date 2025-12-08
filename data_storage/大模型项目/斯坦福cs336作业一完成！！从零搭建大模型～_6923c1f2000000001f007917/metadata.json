@@ -1,0 +1,209 @@
+{
+  "note_id": "6923c1f2000000001f007917",
+  "title": "斯坦福cs336作业一完成！！从零搭建大模型～",
+  "desc": "最近一周学校事情好多，抽空断断续续完成了cs336的Assignment 1任务，从0搭建了第一个属于自己的大模型，浅浅记录一下心得感受。\n\t\n我是在win上用wsl跑的uv，wsl跑uv很简单，教程说明给的特别详细，几行代码就可以复现环境，我也写了个win上装wsl的文档，后续考虑出一个教程～\n\t\n这一套作业是真正意义上的从0开始搭建LLM：从字节级BPE分词，到Tokenizer框架、Transformer模型各组件实现，再到AdamW优化和训练框架搭建，全都自己在 cs336_basics 下面实现了一遍。最新一次跑pytests，结果是：47/48 passed，有个内存问题实在不想改了hhh，框架功能也是全部实现了，算是给这一阶段画了个句号。\n\t\n具体BPE Tokenizer、Transformer、Training的实现见图片P3-P6。\n\t\n[打卡R] 做完 Assignment 1，最大的感受有三点：\n1. “从零实现”真的会改变你看待库的方式\n之前用 PyTorch 的时候，很多层就是调用名字，现在知道这些层背后每一步是怎么堆出来的，遇到bug或数值问题心里不容易慌。\n\t\n2. 性能和工程同样重要\nBPE 那块如果不做优化，其实“功能上是对的”，但就是过不了测试。这次逼着自己从“能跑”变成“跑得够快”，对于写任何需要规模化处理的数据代码都很有帮助。\n\t\n3. 测试是很好的老师\n这套作业的测试覆盖得非常细，从 tokenizer 的细节行为到 attention 的维度，再到 checkpoint 读写。一旦哪里实现和预期有偏差，很快就会在单测里暴露出来，倒逼你去把每个接口契约想清楚。\n\t\n目前 cs336_basics 下的 tokenizer、transformer、training 三块已经比较完整地把“从文本到语言模型输出”的链路串起来了。\n\t\n下一步打算在现有代码基础上写一个简单的训练脚本，在 TinyStories 之类的小数据集上训一个玩具模型，让这个手搓 GPT 真正开口说话。\n\t\n#cs336[话题]# #大模型[话题]# #算法[话题]# #斯坦福[话题]# #互联网大厂[话题]# #大模型学习[话题]# #机器学习[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bctrtvjg0005pnauk27e19nivat51o?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "67f553dc0000000004019838",
+      "name": "cs336",
+      "type": "topic"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    },
+    {
+      "name": "斯坦福",
+      "type": "topic",
+      "id": "5cabebe2000000000d001a9c"
+    },
+    {
+      "id": "5fd62942000000000100036d",
+      "name": "互联网大厂",
+      "type": "topic"
+    },
+    {
+      "name": "大模型学习",
+      "type": "topic",
+      "id": "651449f8000000000d00455f"
+    },
+    {
+      "id": "5c6bb611000000000f0101ee",
+      "name": "机器学习",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/783280bbf328f5ce067f27516e78e4b7/notes_pre_post/1040g3k031p8jhg312g005pnauk27e19n56iejmg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/88339331657af4e1322ee9d0a46df23e/notes_pre_post/1040g3k031p8jhg312g005pnauk27e19n56iejmg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/783280bbf328f5ce067f27516e78e4b7/notes_pre_post/1040g3k031p8jhg312g005pnauk27e19n56iejmg!nd_prv_wlteh_webp_3",
+      "file_id": "",
+      "height": 1393,
+      "url": "",
+      "trace_id": "",
+      "width": 1090,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/88339331657af4e1322ee9d0a46df23e/notes_pre_post/1040g3k031p8jhg312g005pnauk27e19n56iejmg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "stream": {},
+      "live_photo": false,
+      "height": 722,
+      "width": 916,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/5e21c0c0a81538b0488dcefd1cd6905d/notes_pre_post/1040g3k031p8jhg312g0g5pnauk27e19ngs6qb6g!nd_prv_wgth_webp_3",
+      "file_id": "",
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/5e21c0c0a81538b0488dcefd1cd6905d/notes_pre_post/1040g3k031p8jhg312g0g5pnauk27e19ngs6qb6g!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/23711f81e5e7fbf0ae3c94b19d598bfd/notes_pre_post/1040g3k031p8jhg312g0g5pnauk27e19ngs6qb6g!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/23711f81e5e7fbf0ae3c94b19d598bfd/notes_pre_post/1040g3k031p8jhg312g0g5pnauk27e19ngs6qb6g!nd_dft_wgth_webp_3"
+    },
+    {
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/d83813f551e823908bf67f98f38bcc07/notes_pre_post/1040g3k031p8jhg312g105pnauk27e19n69v0ud8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/870c4d513be08e58d68f68150bd43263/notes_pre_post/1040g3k031p8jhg312g105pnauk27e19n69v0ud8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/d83813f551e823908bf67f98f38bcc07/notes_pre_post/1040g3k031p8jhg312g105pnauk27e19n69v0ud8!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "height": 1247,
+      "width": 891,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/870c4d513be08e58d68f68150bd43263/notes_pre_post/1040g3k031p8jhg312g105pnauk27e19n69v0ud8!nd_dft_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/ca8136f3fc946bebf2cb2a7fed8cda1d/notes_pre_post/1040g3k031p8jhg312g1g5pnauk27e19nfqmt410!nd_dft_wlteh_webp_3",
+      "height": 899,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/7f62237bd8a0402785b61d7944621309/notes_pre_post/1040g3k031p8jhg312g1g5pnauk27e19nfqmt410!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/ca8136f3fc946bebf2cb2a7fed8cda1d/notes_pre_post/1040g3k031p8jhg312g1g5pnauk27e19nfqmt410!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/7f62237bd8a0402785b61d7944621309/notes_pre_post/1040g3k031p8jhg312g1g5pnauk27e19nfqmt410!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "width": 896
+    },
+    {
+      "live_photo": false,
+      "file_id": "",
+      "height": 630,
+      "width": 887,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/9e42664d51306e507b7013126ded29c1/notes_pre_post/1040g3k031p8jhg312g205pnauk27e19n97ghijo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/717c1de9cc092a10bc875796b663fd43/notes_pre_post/1040g3k031p8jhg312g205pnauk27e19n97ghijo!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/9e42664d51306e507b7013126ded29c1/notes_pre_post/1040g3k031p8jhg312g205pnauk27e19n97ghijo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/717c1de9cc092a10bc875796b663fd43/notes_pre_post/1040g3k031p8jhg312g205pnauk27e19n97ghijo!nd_prv_wgth_webp_3"
+    },
+    {
+      "trace_id": "",
+      "file_id": "",
+      "width": 877,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/32699cfead3b19b99b3c5176277635ee/notes_pre_post/1040g3k031p8jhg312g2g5pnauk27e19n47sm6oo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/b4878b0db8310a8ba6bdb43a1e344bb3/notes_pre_post/1040g3k031p8jhg312g2g5pnauk27e19n47sm6oo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/32699cfead3b19b99b3c5176277635ee/notes_pre_post/1040g3k031p8jhg312g2g5pnauk27e19n47sm6oo!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/b4878b0db8310a8ba6bdb43a1e344bb3/notes_pre_post/1040g3k031p8jhg312g2g5pnauk27e19n47sm6oo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 541,
+      "url": ""
+    },
+    {
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/e722aa91d8eaf9a3b6fa6ca7b1e457ee/notes_pre_post/1040g3k031p8jhg312g305pnauk27e19nkg02h0o!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/6e7f441bdade0b161610dbb6a2e57939/notes_pre_post/1040g3k031p8jhg312g305pnauk27e19nkg02h0o!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/6e7f441bdade0b161610dbb6a2e57939/notes_pre_post/1040g3k031p8jhg312g305pnauk27e19nkg02h0o!nd_dft_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 1340,
+      "width": 2078,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/e722aa91d8eaf9a3b6fa6ca7b1e457ee/notes_pre_post/1040g3k031p8jhg312g305pnauk27e19nkg02h0o!nd_prv_wgth_webp_3",
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1763951090000,
+  "last_update_time": 1763951090000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/6923c1f2000000001f007917",
+  "xsec_token": "ABt8-YzZ5egtXIxH_sNpC7oqbicBPrrG9CXYyG3M0Gd80="
+}

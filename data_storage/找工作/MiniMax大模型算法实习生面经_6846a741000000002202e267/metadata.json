@@ -1,0 +1,172 @@
+{
+  "note_id": "6846a741000000002202e267",
+  "title": "MiniMax大模型算法实习生面经",
+  "desc": "bg：复旦直博一年级      实习岗位：大模型算法工程师\n\t\n一面\n1.自我介绍与简历沟通\n2.目前有四篇论文，面试官要求分享自己目前最满意的一篇工作，我选了一篇视觉自回归有关的，刚好面试官比较感兴趣就聊的很轻松，也给了一些建议\n3.算法题：模拟马走日\n\t\n二面\n1.有一篇MoE的工作，提问在训MoE的时候遇到的工程问题\n2.目前自己关注哪个研究方向\n3.顺着2，自己想做生成理解一体化，就聊了很多相关方向工作，自己想做的点以及一些insights总结和最近的探索\n\t\nHR面\n1.入职后期望研究方向\n2.对行业发展与最新技术的认知\n3.到岗时间及长期规划\n\t\n总结:\n顺利拿到offer，感觉面试官都很和善，有遇见校友比较亲切，简历中的论文会被深入追问，提前扎实细节尤为重要，如果踩到面试官感兴趣的点就会更好，会让聊天轻松一些。\n\t\n明确自己感兴趣的研究方向方向，有自己的insights和认知会有加分，比如目前已有工作的系统总结和分类，存在什么样的问题，期待可以往哪个技术路线走等，突出一下研究热情[赞R][赞R]。\n\t\n最后也沟通好了自己实习想做偏探索的reserach，minimax相对来说很自由，鼓励探索，对工作要求质量高，mentor超级强，聊了一个多小时，真的深受启发[皱眉R][皱眉R][皱眉R]\n\t\n#面经[话题]# #大厂[话题]# #大模型[话题]# #互联网大厂实习[话题]# #phd[话题]# #面试[话题]# #算法[话题]# #互联网实习生[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jh2cv5hia6g5noh6j9g8g6n99rlm2g?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "type": "topic",
+      "id": "5c12185d5237920001d589d9",
+      "name": "面经"
+    },
+    {
+      "id": "5c5a83da000000000f024b98",
+      "name": "大厂",
+      "type": "topic"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "5e566c22000000000100b19e",
+      "name": "互联网大厂实习",
+      "type": "topic"
+    },
+    {
+      "id": "5c0152210e4c820001bfe972",
+      "name": "phd",
+      "type": "topic"
+    },
+    {
+      "id": "5be1be5ab6fd09000160692c",
+      "name": "面试",
+      "type": "topic"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    },
+    {
+      "id": "5ffd21b90000000001001423",
+      "name": "互联网实习生",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "width": 4096,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/b55aec2e94a2b5ea7f5a121ef5ab0ea9/notes_pre_post/1040g3k031igm54d97i005noh6j9g8g6njj1luc0!nd_dft_wgth_webp_3",
+      "height": 3072,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/fbc093cb6b1afa9898fa3760e2158d20/notes_pre_post/1040g3k031igm54d97i005noh6j9g8g6njj1luc0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/b55aec2e94a2b5ea7f5a121ef5ab0ea9/notes_pre_post/1040g3k031igm54d97i005noh6j9g8g6njj1luc0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/fbc093cb6b1afa9898fa3760e2158d20/notes_pre_post/1040g3k031igm54d97i005noh6j9g8g6njj1luc0!nd_prv_wgth_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "live_photo": false,
+      "file_id": "",
+      "height": 2800,
+      "width": 3132,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/9b4ada7ca4303216de91a0f135c4b8e3/notes_pre_post/1040g3k031igm54l1nq005noh6j9g8g6nvphfluo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/b944ba2d998860eabf7b87982ab67222/notes_pre_post/1040g3k031igm54l1nq005noh6j9g8g6nvphfluo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "stream": {},
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/9b4ada7ca4303216de91a0f135c4b8e3/notes_pre_post/1040g3k031igm54l1nq005noh6j9g8g6nvphfluo!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/b944ba2d998860eabf7b87982ab67222/notes_pre_post/1040g3k031igm54l1nq005noh6j9g8g6nvphfluo!nd_dft_wgth_webp_3"
+    },
+    {
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/514f8c11af752093b4af1e0f3780e8ff/notes_pre_post/1040g3k031igm55fjnq005noh6j9g8g6ndm5q8eo!nd_prv_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "width": 4096,
+      "url": "",
+      "height": 3072,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/514f8c11af752093b4af1e0f3780e8ff/notes_pre_post/1040g3k031igm55fjnq005noh6j9g8g6ndm5q8eo!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/ae5be89926740ccbe1bea42665d3e1c2/notes_pre_post/1040g3k031igm55fjnq005noh6j9g8g6ndm5q8eo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/ae5be89926740ccbe1bea42665d3e1c2/notes_pre_post/1040g3k031igm55fjnq005noh6j9g8g6ndm5q8eo!nd_dft_wgth_webp_3"
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/cd2faefc457b2f8dbf608483f14bc120/notes_pre_post/1040g3k031igm551u7s005noh6j9g8g6n61ggfj0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/a8c596295bbdc6cfd41327b19acdd978/notes_pre_post/1040g3k031igm551u7s005noh6j9g8g6n61ggfj0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/cd2faefc457b2f8dbf608483f14bc120/notes_pre_post/1040g3k031igm551u7s005noh6j9g8g6n61ggfj0!nd_prv_wlteh_webp_3",
+      "width": 3000,
+      "trace_id": "",
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/a8c596295bbdc6cfd41327b19acdd978/notes_pre_post/1040g3k031igm551u7s005noh6j9g8g6n61ggfj0!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 4000
+    },
+    {
+      "width": 2018,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/c49d6112e71e4b5e2707d09ca42a9cb5/notes_pre_post/1040g3k031igm54sknm005noh6j9g8g6nchpsp48!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 2566,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/0b02d565c46acada2a32af312ae705ac/notes_pre_post/1040g3k031igm54sknm005noh6j9g8g6nchpsp48!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/c49d6112e71e4b5e2707d09ca42a9cb5/notes_pre_post/1040g3k031igm54sknm005noh6j9g8g6nchpsp48!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/0b02d565c46acada2a32af312ae705ac/notes_pre_post/1040g3k031igm54sknm005noh6j9g8g6nchpsp48!nd_prv_wlteh_webp_3",
+      "stream": {}
+    }
+  ],
+  "video_url": "",
+  "time": 1749460801000,
+  "last_update_time": 1749460801000,
+  "album": "找工作",
+  "note_url": "https://www.xiaohongshu.com/explore/6846a741000000002202e267",
+  "xsec_token": "ABLkI_q-rqpy05wIxxNrljkhb2xQG_rCUCNcNt4dkbO8U="
+}

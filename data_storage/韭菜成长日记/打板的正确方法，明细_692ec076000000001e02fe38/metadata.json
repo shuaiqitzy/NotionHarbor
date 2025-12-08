@@ -1,0 +1,89 @@
+{
+  "note_id": "692ec076000000001e02fe38",
+  "title": "打板的正确方法，明细",
+  "desc": "我突然发现好多人不会打板啊，刚才小号也发了，这个号也发一下，然后最好这种东西我搞成一个合集，看着也比较简单一点\n\t\n123，就是我每秒截一张当时的盘口，这个是用dfcf截图的。\n\t\n当我们看到这个海欣的时候，最后一档压单还有0.31亿。而最近一笔成交是0.14亿，我们就默认他下一笔还是0.14亿或者0.15亿，反正这个量级。那是不是还要两笔同样的金额才勉强吃完最后一档，记住是勉强。但你别忘了想封住涨停还要有封单呢。就是不仅要吃掉这些压单，还要再拿起码几千万来封住这个涨停板，这些都是真金白银的\n所以这个时候能打嘛，这个时候肯定不能打。因为就算再来两笔0.15亿0.15亿，那还有100万的压单。\n\t\n那我们再接着看下一笔。好，此时直接跃迁到了0.25亿，也就是一下子买入扫掉了0.25亿。此时盘口上只剩下0.11亿，而下一笔如果再是0.25亿的话。不仅能够把0.11亿吃掉，而且多出0.14亿的涨停封单。那在这1秒就可以打了，也就是最新一笔远＞此时的压单。\n\t\n所以第三张图的时候他就已经封住了。\n图三的最后一笔只成交了0.15亿，并不是人家买少了只买了0.15亿，是因为那0.11亿被买完了。同一时间又有400万的卖单挂上去，被一起买走了。所以一共买到了0.15亿。而看封单0.49亿就知道，那一笔的挂单应该是0.49+0.15=0.64亿。一笔挂了0.64亿，0.15亿用于吃掉盘口压单。0.49亿用于封板\n\t\n也就是三种图的最新一笔应该是0.14→0.25→0.64\n最新一笔是多少金额，我们就可以把当前这一部分金额当做下一笔也是这个金额。这个金额能两笔内或者一笔内吃掉压单就直接打\n\t\n大家可以自己举一反三去看。这种以后只要扫一眼就得知道了。\n\t\n而我们在分时上看不到这个海欣他炸板过，其实上榜板后是马上被砸了。只不过又马上封回去，而分时图它是按分钟为单位的，所以你看不见那个缺口。\n\t\n所以我们打板。既然预测不了后面的，我们只要在那一刻做对的事情就行了，打板它只是一种形式而已。\n\t\n以上为历史数据，不构成任何建议，请仔细甄别",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9a1r8i3c505q22o317nonsnrpq360?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [],
+  "image_list": [
+    {
+      "height": 3798,
+      "width": 1725,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/c8a02357fe780a5eb023317f33f5a408/notes_pre_post/1040g3k831pjb0eafkg605q22o317nons9krjphg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/94c62366f72ded4cc9405165fddb6b48/notes_pre_post/1040g3k831pjb0eafkg605q22o317nons9krjphg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041113/94c62366f72ded4cc9405165fddb6b48/notes_pre_post/1040g3k831pjb0eafkg605q22o317nons9krjphg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041113/c8a02357fe780a5eb023317f33f5a408/notes_pre_post/1040g3k831pjb0eafkg605q22o317nons9krjphg!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "url": ""
+    },
+    {
+      "url": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/a17e4aea823ac7646ebaf1c1fbb73f1f/1040g2sg31pjb06c2kapg5q22o317nons3dblc3g!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/3e6cf2a3bde38f806c04057a5adbc086/1040g2sg31pjb06c2kapg5q22o317nons3dblc3g!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041113/a17e4aea823ac7646ebaf1c1fbb73f1f/1040g2sg31pjb06c2kapg5q22o317nons3dblc3g!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041113/3e6cf2a3bde38f806c04057a5adbc086/1040g2sg31pjb06c2kapg5q22o317nons3dblc3g!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 3854,
+      "width": 1699
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/77f688d3365478abaf314a1f3f6fda77/notes_pre_post/1040g3k031pjb0edi4g6g5q22o317nons4i9t34o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041113/c28dc379569b6a5d425fd3f521b0d9ef/notes_pre_post/1040g3k031pjb0edi4g6g5q22o317nons4i9t34o!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 3800,
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041113/c28dc379569b6a5d425fd3f521b0d9ef/notes_pre_post/1040g3k031pjb0edi4g6g5q22o317nons4i9t34o!nd_dft_wlteh_webp_3",
+      "width": 1724,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041113/77f688d3365478abaf314a1f3f6fda77/notes_pre_post/1040g3k031pjb0edi4g6g5q22o317nons4i9t34o!nd_prv_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1764671606000,
+  "last_update_time": 1764677191000,
+  "album": "韭菜成长日记",
+  "note_url": "https://www.xiaohongshu.com/explore/692ec076000000001e02fe38",
+  "xsec_token": "ABYSW3nUEQ1tVjuRrFoQVU9afKRm5S1yvAcqfzhgSLWGw="
+}

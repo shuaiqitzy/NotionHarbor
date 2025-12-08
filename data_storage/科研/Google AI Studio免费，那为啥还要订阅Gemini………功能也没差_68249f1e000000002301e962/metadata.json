@@ -1,0 +1,60 @@
+{
+  "note_id": "68249f1e000000002301e962",
+  "title": "",
+  "desc": "Google AI Studio免费，那为啥还要订阅Gemini………功能也没差多少啊………",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l34i9j5jq005omvd7o7ot2ef7tumd0?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [],
+  "image_list": [
+    {
+      "file_id": "",
+      "height": 1600,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/ece9dc075204ca2b7c38e3f9e6cc427b/1040g2sg31hfelcmjkq705omvd7o7ot2em8uslao!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/552a891b7804b30250dd084a3b285135/1040g2sg31hfelcmjkq705omvd7o7ot2em8uslao!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {
+        "h264": [
+          {
+            "master_url": "http://sns-video-bd.xhscdn.com/stream/1/10/19/01e8249f1d4904ca0100500396cf0da52b_19.mp4",
+            "backup_urls": [
+              "http://sns-bak-v1.xhscdn.com/stream/1/10/19/01e8249f1d4904ca0100500396cf0da52b_19.mp4",
+              "http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e8249f1d4904ca0100500396cf0da52b_19.mp4"
+            ]
+          }
+        ],
+        "h265": [],
+        "h266": [],
+        "av1": []
+      },
+      "width": 1200,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/ece9dc075204ca2b7c38e3f9e6cc427b/1040g2sg31hfelcmjkq705omvd7o7ot2em8uslao!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/552a891b7804b30250dd084a3b285135/1040g2sg31hfelcmjkq705omvd7o7ot2em8uslao!nd_dft_wlteh_webp_3",
+      "live_photo": true
+    }
+  ],
+  "video_url": "",
+  "time": 1747230494000,
+  "last_update_time": 1747230495000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68249f1e000000002301e962",
+  "xsec_token": "AB-8mNvZGYUZZRAzOprwAY5gsF_4CpL04mXESHQWX-s4k="
+}

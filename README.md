@@ -58,22 +58,20 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repo-url>
-cd xhs
+git clone git@github.com:shuaiqitzy/NotionHarbor.git
+cd NotionHarbor
 ```
 
 ### 2. 安装依赖
 
 ```bash
-# 安装 Python 依赖
-pip install -r requirements.txt
-
 # 安装 MediaCrawler 依赖（如果需要）
 cd MediaCrawler
 pip install -r requirements.txt
 cd ..
 
 # 安装 Playwright 浏览器驱动
+pip install playwright
 playwright install chromium
 ```
 

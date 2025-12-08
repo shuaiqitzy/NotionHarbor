@@ -1,0 +1,146 @@
+{
+  "note_id": "6907a20a00000000030362d8",
+  "title": "CS336 作业一完结！人生第一个手搓大模型！",
+  "desc": "斯坦福的 Language Modeling from Scratch 真的是神课！官网和B站资料很全，完整的笔记（其实也还是挺简略的）见我的仓库，这里就分享一些感受和坑点，以及我在开始做之前最关心的——需要多少计算资源？\n\t\n总体来说，这个作业有一定难度，但是文档给的非常详细，基本就是教科书级别的，同时问着 AI 补基础知识的话，即便没什么大模型基础也应该能完成。也没有必要因为没有显卡而畏惧，作业在设计的时候就考虑了无算力同学，文档里会单独标注，而且因为有详细的单元测试，即便最后没有真的完整训练也没关系。总之，放手去做吧！\n\t\n一份问答题参考：\nhttps://www.mattreed.com/projects/lm-from-scratch/architecture.pdf\n\t\n我的代码实现（虽然说不鼓励分享代码，但感觉真遇到调很久找不出来的问题还是有个参考比较好）：\nhttps://github.com/flwfdd/cs336-assignment1-basics\n\t\n#cs336[话题]# #大模型[话题]# #LLM[话题]# #斯坦福[话题]# #自学[话题]# #计算机[话题]# #人工智能[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63d229ef000000002601217a.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "67f553dc0000000004019838",
+      "name": "cs336",
+      "type": "topic"
+    },
+    {
+      "name": "大模型",
+      "type": "topic",
+      "id": "624d11eb000000000101e223"
+    },
+    {
+      "id": "5e4b88d100000000010023d8",
+      "name": "LLM",
+      "type": "topic"
+    },
+    {
+      "id": "5cabebe2000000000d001a9c",
+      "name": "斯坦福",
+      "type": "topic"
+    },
+    {
+      "id": "5bed3feec0e2bb000193b48b",
+      "name": "自学",
+      "type": "topic"
+    },
+    {
+      "id": "5bfa12489c1d82000102c324",
+      "name": "计算机",
+      "type": "topic"
+    },
+    {
+      "id": "620cd421000000000100130c",
+      "name": "人工智能",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/4c9fcda3f788f529170c61edc2320070/1040g00831od3joinmg005oui57npi8bqrd3qusg!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/a3c08d507409996a1262abd071edd7be/1040g00831od3joinmg005oui57npi8bqrd3qusg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/4c9fcda3f788f529170c61edc2320070/1040g00831od3joinmg005oui57npi8bqrd3qusg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/a3c08d507409996a1262abd071edd7be/1040g00831od3joinmg005oui57npi8bqrd3qusg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "height": 2400,
+      "live_photo": false
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/2e2c097a48d960b79a41c5b564f75a10/1040g00831od3joinmg105oui57npi8bqpaoj86o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/39224f4cb4a0362b810b92afb5d68ad0/1040g00831od3joinmg105oui57npi8bqpaoj86o!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/2e2c097a48d960b79a41c5b564f75a10/1040g00831od3joinmg105oui57npi8bqpaoj86o!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "trace_id": "",
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/39224f4cb4a0362b810b92afb5d68ad0/1040g00831od3joinmg105oui57npi8bqpaoj86o!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": ""
+    },
+    {
+      "width": 1440,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/c9d103013d0b5d3fd8e31a1b8c4a6fbe/1040g00831od3joinmg1g5oui57npi8bqligjrm8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/fbe604bad136c025430f7fa5f6a24acb/1040g00831od3joinmg1g5oui57npi8bqligjrm8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/c9d103013d0b5d3fd8e31a1b8c4a6fbe/1040g00831od3joinmg1g5oui57npi8bqligjrm8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/fbe604bad136c025430f7fa5f6a24acb/1040g00831od3joinmg1g5oui57npi8bqligjrm8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "trace_id": "",
+      "height": 2400
+    },
+    {
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041116/e56c1805372a9694cc3036fdb380b2c4/1040g00831od3joinmg0g5oui57npi8bqrceq7l8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041116/1ac9ba84c04c3ba64158e071bf2c0ba2/1040g00831od3joinmg0g5oui57npi8bqrceq7l8!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/e56c1805372a9694cc3036fdb380b2c4/1040g00831od3joinmg0g5oui57npi8bqrceq7l8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041116/1ac9ba84c04c3ba64158e071bf2c0ba2/1040g00831od3joinmg0g5oui57npi8bqrceq7l8!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "stream": {},
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1762107914000,
+  "last_update_time": 1762107914000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/6907a20a00000000030362d8",
+  "xsec_token": "ABUNm0jst5omZbiq1qSDc9zOJWzX4AdLZgraN-5Hkhssw="
+}

@@ -1,0 +1,115 @@
+{
+  "note_id": "691aca6e0000000005003b38",
+  "title": "Prompt管理提示词工具，开源免费",
+  "desc": "作为常年靠AI吃饭的打工人\n谁懂啊！写Claude、Cursor的规则提示词写到头秃…\n攒了一大堆Prompt，乱糟糟的没法管\n想优化对比效果更是难上加难！\n直到我挖到这个宝藏——Prompt Optimizer\n免费开源的提示词优化管理工具，亲测巨好用！\n能整理能优化还能对比效果，效率直接翻倍✨\n突然萌生个想法：把它封装成Google插件岂不是方便？\n有没有懂行的姐妹/大佬感兴趣，一起搞事啊！🙋‍♀️\n#AI工具[话题]# #Prompt技巧[话题]# #打工人效率神器[话题]# #编程副业[话题]# #个人开发者[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3122cka4f3m005n18lgdhl9flm0rsiog?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "type": "topic",
+      "id": "635679cb000000000100505c",
+      "name": "AI工具"
+    },
+    {
+      "id": "65c2fb77000000001b016139",
+      "name": "Prompt技巧",
+      "type": "topic"
+    },
+    {
+      "name": "打工人效率神器",
+      "type": "topic",
+      "id": "5c879dd1000000000f006bfb"
+    },
+    {
+      "id": "6481e976000000002201e3e9",
+      "name": "编程副业",
+      "type": "topic"
+    },
+    {
+      "name": "个人开发者",
+      "type": "topic",
+      "id": "61e24ac3000000000100a2b8"
+    }
+  ],
+  "image_list": [
+    {
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/fae2a6e998ba9845983a89c13440fd6f/notes_pre_post/1040g3k031ovrcjbuho005n18lgdhl9fldg7ciqo!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/30c71eb979fc0d79349e7a7584cd17db/notes_pre_post/1040g3k031ovrcjbuho005n18lgdhl9fldg7ciqo!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/fae2a6e998ba9845983a89c13440fd6f/notes_pre_post/1040g3k031ovrcjbuho005n18lgdhl9fldg7ciqo!nd_prv_wlteh_webp_3",
+      "height": 2556,
+      "trace_id": "",
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/30c71eb979fc0d79349e7a7584cd17db/notes_pre_post/1040g3k031ovrcjbuho005n18lgdhl9fldg7ciqo!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "width": 1179
+    },
+    {
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/fed5683941f4f3728eac44ef1b1cfad9/notes_pre_post/1040g3k031ovrcjbuho0g5n18lgdhl9flofqokg8!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/f44dc3c91509257eec08688a61e69380/notes_pre_post/1040g3k031ovrcjbuho0g5n18lgdhl9flofqokg8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/fed5683941f4f3728eac44ef1b1cfad9/notes_pre_post/1040g3k031ovrcjbuho0g5n18lgdhl9flofqokg8!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/f44dc3c91509257eec08688a61e69380/notes_pre_post/1040g3k031ovrcjbuho0g5n18lgdhl9flofqokg8!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 416,
+      "width": 680,
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "width": 680,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/57f1a3955dbbcce0b706ac75a312e847/notes_pre_post/1040g3k031ovrcjbuho105n18lgdhl9fl2kpg1fo!nd_prv_wgth_webp_3",
+      "live_photo": false,
+      "height": 395,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/57f1a3955dbbcce0b706ac75a312e847/notes_pre_post/1040g3k031ovrcjbuho105n18lgdhl9fl2kpg1fo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/f5923a5a735381a07fdad84a665d36a1/notes_pre_post/1040g3k031ovrcjbuho105n18lgdhl9fl2kpg1fo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/f5923a5a735381a07fdad84a665d36a1/notes_pre_post/1040g3k031ovrcjbuho105n18lgdhl9fl2kpg1fo!nd_dft_wgth_webp_3",
+      "stream": {}
+    }
+  ],
+  "video_url": "",
+  "time": 1763363438000,
+  "last_update_time": 1763363438000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/691aca6e0000000005003b38",
+  "xsec_token": "ABH6RZEWJNyN2-dT8yJbH1PI2xHpdNmwS4fzTpxthGlVM="
+}

@@ -1,0 +1,146 @@
+{
+  "note_id": "68f9f8f100000000050137dd",
+  "title": "2025年大模型可以研究的方向",
+  "desc": "#大模型[话题]# #多模态人工智能[话题]# #AI人工智能[话题]# #未来科技趋势[话题]# #llm[话题]##算法[话题]# #深度学习[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nrsa51s6m005q5ildimbd49ks85i0o?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "628eab9c000000000100b77a",
+      "name": "多模态人工智能",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5df626120000000001001a09",
+      "name": "AI人工智能"
+    },
+    {
+      "id": "64529870000000002801b47d",
+      "name": "未来科技趋势",
+      "type": "topic"
+    },
+    {
+      "id": "6147484d000000000101e744",
+      "name": "llm",
+      "type": "topic"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习"
+    }
+  ],
+  "image_list": [
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/1041971512a52bc444456384bea06867/1040g00831nvprcgf06e05q5ildimbd496ilp5eo!nd_dft_wlteh_webp_3",
+      "width": 1242,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/75be29b5b4cb4a27352d8940be3fab59/1040g00831nvprcgf06e05q5ildimbd496ilp5eo!nd_prv_wlteh_webp_3",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/75be29b5b4cb4a27352d8940be3fab59/1040g00831nvprcgf06e05q5ildimbd496ilp5eo!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/1041971512a52bc444456384bea06867/1040g00831nvprcgf06e05q5ildimbd496ilp5eo!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 1656
+    },
+    {
+      "height": 1656,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/e098a3d7fe3476872d211b7bb48085af/1040g00831nvprcgf06eg5q5ildimbd49c7613qg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/d0d9b9d0f974c328cf2caccb0a208348/1040g00831nvprcgf06eg5q5ildimbd49c7613qg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/e098a3d7fe3476872d211b7bb48085af/1040g00831nvprcgf06eg5q5ildimbd49c7613qg!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/d0d9b9d0f974c328cf2caccb0a208348/1040g00831nvprcgf06eg5q5ildimbd49c7613qg!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 1242,
+      "url": "",
+      "trace_id": "",
+      "stream": {}
+    },
+    {
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/167bf6ceecc4a18dcdac25affdea51e4/1040g00831nvprcgf06f05q5ildimbd498646otg!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/0b55b26f60a34cf998eb6e2345622b10/1040g00831nvprcgf06f05q5ildimbd498646otg!nd_dft_wlteh_webp_3",
+      "width": 1242,
+      "height": 1656,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/167bf6ceecc4a18dcdac25affdea51e4/1040g00831nvprcgf06f05q5ildimbd498646otg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/0b55b26f60a34cf998eb6e2345622b10/1040g00831nvprcgf06f05q5ildimbd498646otg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "file_id": ""
+    },
+    {
+      "stream": {},
+      "live_photo": false,
+      "height": 1656,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/9f4f412a964f04b744bb88af1ec38c0f/1040g00831nvprcgf06fg5q5ildimbd49u7q5uag!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/2686ed269fc84fededa1e5ba73ad1393/1040g00831nvprcgf06fg5q5ildimbd49u7q5uag!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "file_id": "",
+      "width": 1242,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/9f4f412a964f04b744bb88af1ec38c0f/1040g00831nvprcgf06fg5q5ildimbd49u7q5uag!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/2686ed269fc84fededa1e5ba73ad1393/1040g00831nvprcgf06fg5q5ildimbd49u7q5uag!nd_dft_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1761212657000,
+  "last_update_time": 1761212657000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/68f9f8f100000000050137dd",
+  "xsec_token": "ABynZJHyxKreZI-2QZZ5g72TR4QCePzJvTlqiuTPeOSgs="
+}

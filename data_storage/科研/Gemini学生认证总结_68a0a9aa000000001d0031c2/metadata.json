@@ -1,0 +1,178 @@
+{
+  "note_id": "68a0a9aa000000001d0031c2",
+  "title": "Gemini学生认证总结",
+  "desc": "[看R]需要注意：\n1.不是一定要🇮🇳，我的🇮🇳被地区拒了，试试🇺🇸\n2.自己有visa卡的用自己的就好，订阅时会有 1 美元的扣款，订阅成功后就自动退回了\n3.订阅结束后，可以直接取消订阅（没影响），避免明年自动扣款\n[打卡R]具体的申请流程很简单：参照图片P2-4\n1.🇮🇳名字，学校用IIT Bombay\n2.到P1右上角网站上一键生成（记得要选English，并且把刚刚编的信息修改好），正反面下载好之后上传认证\n[刀R]遇到的问题：1.地区限制//This offer is not available\n我建议退出账号，清除 chrome 所有数据，多换几个节点，过几个小时再试试（我是隔天早晨再验证就没问题了，每次上梯子后可以搜索一下“我的ip 在哪里”确认一下）\n实在不行就注册新账号，但我的新账号也是not avaliable。可以重复上述操作用两个账号多试几次，我最后还是用旧账号验证成功的\n还有些攻略说去账号里把地址改掉，可以参考@孟飞老师在上海 的帖子。按博主的说法，此方法仅限于其他方法都无效的情况\n问题2.学生认证没通过/让你补充其他证明：\n再去办理了几个学生证明，一直上传到通过为止\n[火R]取消订阅：图片P5-6\n完成验证后，可以自行选择取消订阅，我个人建议取消掉（对本年没影响），不然明年免费试用结束会自动扣款\n具体操作：google设置里找到“付款和订阅”，点击 google one 左下角的“管理订阅”，在里面取消订阅即可\n#gemini[话题]# #Gemini[话题]# #gemini学生认证[话题]# #AI[话题]# #google[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lb3qsh1li105n701lskees5c2qf3oo?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5d2acf50000000001803fa96",
+      "name": "gemini",
+      "type": "topic"
+    },
+    {
+      "id": "606c2306000000000100487a",
+      "name": "Gemini",
+      "type": "topic"
+    },
+    {
+      "id": "683fcff50000000017038b43",
+      "name": "gemini学生认证",
+      "type": "topic"
+    },
+    {
+      "id": "5d6b7cdb000000000103e136",
+      "name": "AI",
+      "type": "topic"
+    },
+    {
+      "id": "5bea088b85cfbb000108056b",
+      "name": "google",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "stream": {},
+      "live_photo": false,
+      "height": 1156,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/0f0cb97018471e6023789d165fd8ef87/spectrum/1040g0k031l7sdqie4q005n701lskees5qc9ag9o!nd_dft_wgth_webp_3",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/b0684afc674af5a6a964413021ab75ec/spectrum/1040g0k031l7sdqie4q005n701lskees5qc9ag9o!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/0f0cb97018471e6023789d165fd8ef87/spectrum/1040g0k031l7sdqie4q005n701lskees5qc9ag9o!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/b0684afc674af5a6a964413021ab75ec/spectrum/1040g0k031l7sdqie4q005n701lskees5qc9ag9o!nd_prv_wgth_webp_3",
+      "file_id": "",
+      "width": 2078,
+      "trace_id": ""
+    },
+    {
+      "file_id": "",
+      "height": 625,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/acc363184c88d613559bab0bacc02342/spectrum/1040g34o31l7t4u21ku105n701lskees5lo2mebg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/e4729241d6b1b5a1d65de4e89c1bd633/spectrum/1040g34o31l7t4u21ku105n701lskees5lo2mebg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/acc363184c88d613559bab0bacc02342/spectrum/1040g34o31l7t4u21ku105n701lskees5lo2mebg!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "width": 625,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/e4729241d6b1b5a1d65de4e89c1bd633/spectrum/1040g34o31l7t4u21ku105n701lskees5lo2mebg!nd_dft_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "width": 1140,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/0997849567c69d3def113150d4058b85/spectrum/1040g34o31l7t4pm04u105n701lskees572605a0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/a912faf8602c68c9e3b0e5433ff67411/spectrum/1040g34o31l7t4pm04u105n701lskees572605a0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/0997849567c69d3def113150d4058b85/spectrum/1040g34o31l7t4pm04u105n701lskees572605a0!nd_prv_wgth_webp_3",
+      "stream": {},
+      "height": 810,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/a912faf8602c68c9e3b0e5433ff67411/spectrum/1040g34o31l7t4pm04u105n701lskees572605a0!nd_dft_wgth_webp_3",
+      "live_photo": false
+    },
+    {
+      "height": 720,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/5bfe94cefc5436769dfc6d47c51ee8cb/spectrum/1040g34o31l7t4s5150105n701lskees53i479i0!nd_prv_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 1140,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/5bfe94cefc5436769dfc6d47c51ee8cb/spectrum/1040g34o31l7t4s5150105n701lskees53i479i0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/7ff67c8294d8d6421a769de6afb76649/spectrum/1040g34o31l7t4s5150105n701lskees53i479i0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/7ff67c8294d8d6421a769de6afb76649/spectrum/1040g34o31l7t4s5150105n701lskees53i479i0!nd_dft_wgth_webp_3",
+      "stream": {}
+    },
+    {
+      "height": 1184,
+      "width": 2634,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/f1ac5d1b037bf648cdba94d0eb25bd31/spectrum/1040g34o31l8iphge4u105n701lskees5qtsl7to!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/93d0008ad2add7c74a5e9403c773dfba/spectrum/1040g34o31l8iphge4u105n701lskees5qtsl7to!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/f1ac5d1b037bf648cdba94d0eb25bd31/spectrum/1040g34o31l8iphge4u105n701lskees5qtsl7to!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/93d0008ad2add7c74a5e9403c773dfba/spectrum/1040g34o31l8iphge4u105n701lskees5qtsl7to!nd_prv_wgth_webp_3"
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/4f7f9106c306891f9949df0ba1023ad7/spectrum/1040g0k031l8ipnb4l2005n701lskees5vqrhopo!nd_prv_wgth_webp_3",
+      "height": 1482,
+      "width": 2634,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/4f7f9106c306891f9949df0ba1023ad7/spectrum/1040g0k031l8ipnb4l2005n701lskees5vqrhopo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/86aad33a00e8c9bd983b5bc3620f6446/spectrum/1040g0k031l8ipnb4l2005n701lskees5vqrhopo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/86aad33a00e8c9bd983b5bc3620f6446/spectrum/1040g0k031l8ipnb4l2005n701lskees5vqrhopo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1755359658000,
+  "last_update_time": 1764682238000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68a0a9aa000000001d0031c2",
+  "xsec_token": "ABY1yAgT_ZfZ6MDURRh4g6ix469kimIThMRH7nVzuT5J8="
+}

@@ -1,0 +1,146 @@
+{
+  "note_id": "691d95ef000000001e02a424",
+  "title": "Google Antigravity 初次使用踩坑记录",
+  "desc": "最近尝试了谷歌出的这个Antigravity，在登录和区域限制上踩了两个坑，记录一下解决方案，希望能帮到大家。\n\t\n问题一：点击登录没反应\n刚开始用的时候，在IDE里点谷歌登录，会跳转到浏览器让我验证账号，验证完提示“正在打开应用”…然后就没然后了，App没有任何反应。\n* 根本原因：代理模式不对。大多数需要抓包或深度网络代理的应用，都需要开 TUN（虚拟网卡）模式，而不是普通的代理模式。\n* 我的解决方案：我一开始用的 ClashX 不支持 Tun 模式，所以换成了 Clash Verge，在里面开启 “Tun 模式” 或者 “混合模式” 后就一次成功了！图2为设置方法。\n\t\n问题二：账号区域限制（锁区）（如图3）\n登录问题解决后，我用自己的谷歌账号还是不行，后来才发现是账号区域的问题。\n* 如何查看自己账号的区域：在chrome的服务条款中可查看 页面底部会显示你当前账号适用的服务条款属于哪个“国家/地区”。（如图4）\n* 解决方案：注册一个全新的海外区域谷歌账号。\n* 关键步骤：在注册全程，你的代理节点必须选一个海外节点（比如日本、新加坡、美国等），绝对不能是港澳台节点。谷歌会根据你注册时的IP所在地来决定新账号的区域。\n总结一下：\n1. 网络是关键：必须使用 TUN 模式的代理软件，推荐 Clash Verge。\n2. 账号要选对：港澳台区域的账号亲测无法使用，最好用其他海外区域的新账号。\n希望这篇记录能帮你顺利上车，少走弯路！如果还有问题，欢迎在评论区讨论。\n\t\n#小红书科技AMA[话题]# #个人开发者[话题]# #大模型[话题]# #开发者选项[话题]# #Google[话题]# Antigravity #Antigravity[话题]# #ai工具[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "68d7d4640000000012018ecb",
+      "name": "小红书科技AMA",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "61e24ac3000000000100a2b8",
+      "name": "个人开发者"
+    },
+    {
+      "name": "大模型",
+      "type": "topic",
+      "id": "624d11eb000000000101e223"
+    },
+    {
+      "id": "61b1725500000000010058f7",
+      "name": "开发者选项",
+      "type": "topic"
+    },
+    {
+      "id": "5d8dcd3c000000000103bffc",
+      "name": "Google",
+      "type": "topic"
+    },
+    {
+      "id": "62a084950000000001005608",
+      "name": "Antigravity",
+      "type": "topic"
+    },
+    {
+      "id": "6375bc520000000001003b69",
+      "name": "ai工具",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "live_photo": false,
+      "height": 1606,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/fd3b1a2b21e19731b20f1094c86380b1/notes_pre_post/1040g3k031p2ilhem322048ej7vo25hhro3u94tg!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/3648b80785ef8a052621573b54af4b13/notes_pre_post/1040g3k031p2ilhem322048ej7vo25hhro3u94tg!nd_dft_wgth_webp_3"
+        }
+      ],
+      "stream": {},
+      "file_id": "",
+      "width": 2560,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/fd3b1a2b21e19731b20f1094c86380b1/notes_pre_post/1040g3k031p2ilhem322048ej7vo25hhro3u94tg!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/3648b80785ef8a052621573b54af4b13/notes_pre_post/1040g3k031p2ilhem322048ej7vo25hhro3u94tg!nd_dft_wgth_webp_3"
+    },
+    {
+      "live_photo": false,
+      "file_id": "",
+      "width": 1882,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/95d63973c4221cda8d8d83e1f67ecd01/notes_pre_post/1040g3k031p2ilhem322g48ej7vo25hhr4i76nmg!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/098e3c24679710ae37146f5a9fdbf636/notes_pre_post/1040g3k031p2ilhem322g48ej7vo25hhr4i76nmg!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/95d63973c4221cda8d8d83e1f67ecd01/notes_pre_post/1040g3k031p2ilhem322g48ej7vo25hhr4i76nmg!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/098e3c24679710ae37146f5a9fdbf636/notes_pre_post/1040g3k031p2ilhem322g48ej7vo25hhr4i76nmg!nd_dft_wgth_webp_3",
+      "height": 1402,
+      "trace_id": "",
+      "stream": {}
+    },
+    {
+      "height": 328,
+      "width": 1050,
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/5361238accf252f567301fe9077bbe8f/notes_pre_post/1040g3k031p2ilhem323048ej7vo25hhrlorafs8!nd_dft_wgth_webp_3",
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/0a8da07e7dbc91703e14547f905e0421/notes_pre_post/1040g3k031p2ilhem323048ej7vo25hhrlorafs8!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/5361238accf252f567301fe9077bbe8f/notes_pre_post/1040g3k031p2ilhem323048ej7vo25hhrlorafs8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/0a8da07e7dbc91703e14547f905e0421/notes_pre_post/1040g3k031p2ilhem323048ej7vo25hhrlorafs8!nd_prv_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url": ""
+    },
+    {
+      "trace_id": "",
+      "live_photo": false,
+      "height": 1972,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/fbb06e15b1c7d4766cc03b226514a93d/notes_pre_post/1040g3k031p2ilhem323g48ej7vo25hhrglotrk8!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041118/3ca79b1edf21b83786765fab6eda0ec7/notes_pre_post/1040g3k031p2ilhem323g48ej7vo25hhrglotrk8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041118/fbb06e15b1c7d4766cc03b226514a93d/notes_pre_post/1040g3k031p2ilhem323g48ej7vo25hhrglotrk8!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041118/3ca79b1edf21b83786765fab6eda0ec7/notes_pre_post/1040g3k031p2ilhem323g48ej7vo25hhrglotrk8!nd_dft_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 2486
+    }
+  ],
+  "video_url": "",
+  "time": 1763546607000,
+  "last_update_time": 1763606248000,
+  "album": "Antigravity",
+  "note_url": "https://www.xiaohongshu.com/explore/691d95ef000000001e02a424",
+  "xsec_token": "ABAkV_VpecWduAvNBfvdFCUD8Upu5y4JcooTvD0rpm4Ew="
+}

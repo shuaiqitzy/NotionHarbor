@@ -1,0 +1,98 @@
+{
+  "note_id": "68d3c8810000000013012475",
+  "title": "颜值不够 手法没问题",
+  "desc": "#夹板造型[话题]# #男生发型[话题]# #变帅[话题]# #男生造型[话题]# #男生发型打理[话题]# #王安宇[话题]# #王安宇好帅[话题]# #发型教程[话题]# #男大学生[话题]# #男生发型教程[话题]#",
+  "type": "video",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66b1f08851dbbac8f58bda60.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "6108b66b0000000001008cd5",
+      "name": "夹板造型",
+      "type": "topic"
+    },
+    {
+      "id": "6145e8cd000000000100422e",
+      "name": "男生发型",
+      "type": "topic"
+    },
+    {
+      "id": "5be9378fe5735b000174373b",
+      "name": "变帅",
+      "type": "topic"
+    },
+    {
+      "id": "5d0b4f7a000000000d024461",
+      "name": "男生造型",
+      "type": "topic"
+    },
+    {
+      "id": "5cecae09000000000d039a68",
+      "name": "男生发型打理",
+      "type": "topic"
+    },
+    {
+      "id": "5df71f3a00000000010050f6",
+      "name": "王安宇",
+      "type": "topic"
+    },
+    {
+      "id": "5f6b1f27000000000100b884",
+      "name": "王安宇好帅",
+      "type": "topic"
+    },
+    {
+      "id": "5be57ac580b72a00014c9e9b",
+      "name": "发型教程",
+      "type": "topic"
+    },
+    {
+      "id": "60002166000000000100bfe7",
+      "name": "男大学生",
+      "type": "topic"
+    },
+    {
+      "id": "5c3c3785000000000d00982b",
+      "name": "男生发型教程",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041121/c8d4a89a2505f2f0a9485f68c25b110a/1040g00831mqgdeft58005p16c7skcb9q01vbtbo!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1920,
+      "width": 1080,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041121/d4bc17733941a2d0013f5e06216aa375/1040g00831mqgdeft58005p16c7skcb9q01vbtbo!nd_prv_wlteh_webp_3",
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041121/d4bc17733941a2d0013f5e06216aa375/1040g00831mqgdeft58005p16c7skcb9q01vbtbo!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041121/c8d4a89a2505f2f0a9485f68c25b110a/1040g00831mqgdeft58005p16c7skcb9q01vbtbo!nd_dft_wlteh_webp_3"
+        }
+      ]
+    }
+  ],
+  "video_url": "",
+  "time": 1758709889000,
+  "last_update_time": 1764429342000,
+  "album": "变吴彦祖指南",
+  "note_url": "https://www.xiaohongshu.com/explore/68d3c8810000000013012475",
+  "xsec_token": "ABBN2_sFLAuSVOHDSlyrcGccRiuRfU7LzfgIGQwirmAgo="
+}

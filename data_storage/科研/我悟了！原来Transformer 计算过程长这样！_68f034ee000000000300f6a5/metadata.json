@@ -1,0 +1,115 @@
+{
+  "note_id": "68f034ee000000000300f6a5",
+  "title": "我悟了！原来Transformer 计算过程长这样！",
+  "desc": "我悟了！原来Transformer 计算过程长这样。有了这个图我不信你看不懂Transformer#深度学习[话题]# #深度学习与神经网络[话题]# #LLM[话题]# #大模型[话题]# #大模型面试[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nphja8f6m005pcbiof8hd7cb4bf97g?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习",
+      "type": "topic"
+    },
+    {
+      "id": "5e9003ac0000000001008ccc",
+      "name": "深度学习与神经网络",
+      "type": "topic"
+    },
+    {
+      "id": "5e4b88d100000000010023d8",
+      "name": "LLM",
+      "type": "topic"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "65af9dc40000000003017887",
+      "name": "大模型面试",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/aec6af86e3ecbc1eb80450da7b2deb7e/1040g00831nm8ipi1lm005pcbiof8hd7c04iaii8!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/0908f204990abbe69648a3398ee26143/1040g00831nm8ipi1lm005pcbiof8hd7c04iaii8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/aec6af86e3ecbc1eb80450da7b2deb7e/1040g00831nm8ipi1lm005pcbiof8hd7c04iaii8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/0908f204990abbe69648a3398ee26143/1040g00831nm8ipi1lm005pcbiof8hd7c04iaii8!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "height": 1517,
+      "width": 1517,
+      "url": "",
+      "file_id": "",
+      "stream": {}
+    },
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/e8dc3b88c26a2ec52bbb2bdfba65e328/1040g00831nm8ipi1lm0g5pcbiof8hd7ckoflslg!nd_prv_wgth_webp_3",
+      "height": 1660,
+      "width": 2270,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/e8dc3b88c26a2ec52bbb2bdfba65e328/1040g00831nm8ipi1lm0g5pcbiof8hd7ckoflslg!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/12f67d4a5e29ef42bd633eb94b5fbf25/1040g00831nm8ipi1lm0g5pcbiof8hd7ckoflslg!nd_dft_wgth_webp_3"
+        }
+      ],
+      "file_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/12f67d4a5e29ef42bd633eb94b5fbf25/1040g00831nm8ipi1lm0g5pcbiof8hd7ckoflslg!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/0d0392f77e552ae84c556689d7ed241a/1040g00831nm8ipi1lm105pcbiof8hd7ci3tbu08!nd_dft_wgth_webp_3",
+      "file_id": "",
+      "height": 1722,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/269a2fe11c9b6a4c013259b010cc89cf/1040g00831nm8ipi1lm105pcbiof8hd7ci3tbu08!nd_prv_wgth_webp_3",
+      "live_photo": false,
+      "width": 2940,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/269a2fe11c9b6a4c013259b010cc89cf/1040g00831nm8ipi1lm105pcbiof8hd7ci3tbu08!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/0d0392f77e552ae84c556689d7ed241a/1040g00831nm8ipi1lm105pcbiof8hd7ci3tbu08!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "stream": {}
+    }
+  ],
+  "video_url": "",
+  "time": 1760572654000,
+  "last_update_time": 1760587980000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68f034ee000000000300f6a5",
+  "xsec_token": "ABiaUC91AyE1zZ87kxdelYdZFZUqiwNvjPBUhzpNOudKk="
+}

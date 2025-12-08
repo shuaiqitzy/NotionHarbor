@@ -1,0 +1,83 @@
+{
+  "note_id": "68e0e31a000000000302e992",
+  "title": "交大博士解读自动化：下一个风口！机器人！",
+  "desc": "一键三连推荐给更多的朋友！\n#上海交通大学[话题]# #自动化[话题]# #具身智能[话题]# #机器人[话题]# #人工智能[话题]# #博士[话题]# #实验室[话题]#",
+  "type": "video",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kiiodk9j2105oc7a0gk1q1n4citvjo?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5c012cf923cdb5000157e5ac",
+      "name": "上海交通大学",
+      "type": "topic"
+    },
+    {
+      "id": "5d0ffb90000000000f028338",
+      "name": "自动化",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "6469ff03000000001c025872",
+      "name": "具身智能"
+    },
+    {
+      "id": "6139c5d4000000000101f14d",
+      "name": "机器人",
+      "type": "topic"
+    },
+    {
+      "name": "人工智能",
+      "type": "topic",
+      "id": "620cd421000000000100130c"
+    },
+    {
+      "type": "topic",
+      "id": "5be9267650fe5600012a22f6",
+      "name": "博士"
+    },
+    {
+      "id": "5c47cb00000000000f03188d",
+      "name": "实验室",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041108/94f15414121fd70976a7a198b020174c/spectrum/1040g0k031n79r8j7ku005oc7a0gk1q1nur43nko!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1348,
+      "width": 1011,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041108/94f15414121fd70976a7a198b020174c/spectrum/1040g0k031n79r8j7ku005oc7a0gk1q1nur43nko!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041108/413a247c72846309df87f94af629c08f/spectrum/1040g0k031n79r8j7ku005oc7a0gk1q1nur43nko!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041108/413a247c72846309df87f94af629c08f/spectrum/1040g0k031n79r8j7ku005oc7a0gk1q1nur43nko!nd_dft_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1759572272000,
+  "last_update_time": 1759568666000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68e0e31a000000000302e992",
+  "xsec_token": "AB1X1Q3kW6GLRjjQ11XoOILwwVhtYTMfiDAAXH_N_Ene8="
+}

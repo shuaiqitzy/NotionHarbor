@@ -1,0 +1,131 @@
+{
+  "note_id": "68ecce8d00000000040109b4",
+  "title": "上海AI lab 大模型一面",
+  "desc": "#大模型[话题]# #秋招[话题]# #金十银十一[话题]# #上海ailab[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ncnma2t5m005oms6etnokmgjs7358g?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "大模型",
+      "type": "topic",
+      "id": "624d11eb000000000101e223"
+    },
+    {
+      "name": "秋招",
+      "type": "topic",
+      "id": "5bf577715fb4e60001b66b97"
+    },
+    {
+      "id": "65424cc60000000001011865",
+      "name": "金十银十一",
+      "type": "topic"
+    },
+    {
+      "id": "65dde3820000000002024b09",
+      "name": "上海ailab",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "height": 2400,
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/7de70dcb42bc8968bf7474936198f2a7/1040g00831nitvpjb5m005oms6etnokmgp24v8pg!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/d8139e6e334d2171cca644883b404539/1040g00831nitvpjb5m005oms6etnokmgp24v8pg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/7de70dcb42bc8968bf7474936198f2a7/1040g00831nitvpjb5m005oms6etnokmgp24v8pg!nd_prv_wlteh_webp_3",
+      "width": 1440,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/d8139e6e334d2171cca644883b404539/1040g00831nitvpjb5m005oms6etnokmgp24v8pg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "width": 1440,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/85a57fddb8126a29bbdc7d0b5a9873d8/1040g00831nitvpjb5m0g5oms6etnokmgvntmveo!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 2400,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/85a57fddb8126a29bbdc7d0b5a9873d8/1040g00831nitvpjb5m0g5oms6etnokmgvntmveo!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/bf3047d3ccad6a81cdbd866d6b8a3436/1040g00831nitvpjb5m0g5oms6etnokmgvntmveo!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/bf3047d3ccad6a81cdbd866d6b8a3436/1040g00831nitvpjb5m0g5oms6etnokmgvntmveo!nd_dft_wlteh_webp_3"
+    },
+    {
+      "height": 2400,
+      "width": 1440,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/275a9f3d815610b6049bfde448837ca5/1040g00831nitvpjb5m1g5oms6etnokmgda57qd8!nd_prv_wlteh_webp_3",
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/275a9f3d815610b6049bfde448837ca5/1040g00831nitvpjb5m1g5oms6etnokmgda57qd8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/7fe73df5e84550d3cc034545b4e37b5b/1040g00831nitvpjb5m1g5oms6etnokmgda57qd8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/7fe73df5e84550d3cc034545b4e37b5b/1040g00831nitvpjb5m1g5oms6etnokmgda57qd8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url": ""
+    },
+    {
+      "height": 2400,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/3b88a6eea842781837340ed440b83abb/1040g00831nitvpjb5m105oms6etnokmgp4lhu7g!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/cad3e38a8f535c40eb915ad107c98d48/1040g00831nitvpjb5m105oms6etnokmgp4lhu7g!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/3b88a6eea842781837340ed440b83abb/1040g00831nitvpjb5m105oms6etnokmgp4lhu7g!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 1440,
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/cad3e38a8f535c40eb915ad107c98d48/1040g00831nitvpjb5m105oms6etnokmgp4lhu7g!nd_dft_wlteh_webp_3",
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1760349837000,
+  "last_update_time": 1760349838000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68ecce8d00000000040109b4",
+  "xsec_token": "AB0OET9L-fMxsl03-tSNOzSvmNRtDHU1gT-hzWDVrmHOs="
+}

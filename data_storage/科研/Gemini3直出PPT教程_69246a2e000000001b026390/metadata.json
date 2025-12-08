@@ -1,0 +1,99 @@
+{
+  "note_id": "69246a2e000000001b026390",
+  "title": "Gemini3直出PPT教程",
+  "desc": "oi～[派对R]\n使用的工具是 Google 的 NotebookLM，调用的模型应该是 Gemini3 和 Banana Pro\n提示词是这个：\n我是一名text to image diffusion文生图工程师，需要了解该论文和算法，你需要全面详细的给我讲解，不能省略或概括任何一个细节，要结合数学公式和代码来对应着讲解 ppt风格用chiikawa三小只\n\t\n#gemini3[话题]# #bananapro[话题]# #notebooklm[话题]# #PPT制作[话题]# #AI工具[话题]# #chiikawa[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6114b3eb0000000001007c05.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "6841811b0000000018009a9e",
+      "name": "gemini3",
+      "type": "topic"
+    },
+    {
+      "name": "bananapro",
+      "type": "topic",
+      "id": "691f06090000000025035120"
+    },
+    {
+      "id": "64cfbc40000000001403b52e",
+      "name": "notebooklm",
+      "type": "topic"
+    },
+    {
+      "name": "PPT制作",
+      "type": "topic",
+      "id": "5e5b53af0000000001005193"
+    },
+    {
+      "id": "635679cb000000000100505c",
+      "name": "AI工具",
+      "type": "topic"
+    },
+    {
+      "id": "6192fca80000000001007eab",
+      "name": "chiikawa",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/17cc4a2f899fbed1c2898d72060af669/spectrum/1040g34o31p97vke22c205o8kmflg8v05k3k6598!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/37e1066394fd13722a44f8cf2f73733a/spectrum/1040g34o31p97vke22c205o8kmflg8v05k3k6598!nd_dft_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 3262,
+      "url": "",
+      "trace_id": "",
+      "height": 1760,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/17cc4a2f899fbed1c2898d72060af669/spectrum/1040g34o31p97vke22c205o8kmflg8v05k3k6598!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/37e1066394fd13722a44f8cf2f73733a/spectrum/1040g34o31p97vke22c205o8kmflg8v05k3k6598!nd_dft_wgth_webp_3"
+        }
+      ],
+      "live_photo": false
+    },
+    {
+      "live_photo": false,
+      "file_id": "",
+      "height": 1136,
+      "width": 1816,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/16fd4ec5fc8b34ec788509b7ee19f387/spectrum/1040g34o31p97vke22c2g5o8kmflg8v05c8t24ig!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/7eaf64393947c7a2eb670cba08875e2e/spectrum/1040g34o31p97vke22c2g5o8kmflg8v05c8t24ig!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/16fd4ec5fc8b34ec788509b7ee19f387/spectrum/1040g34o31p97vke22c2g5o8kmflg8v05c8t24ig!nd_prv_wgth_webp_3",
+      "stream": {},
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/7eaf64393947c7a2eb670cba08875e2e/spectrum/1040g34o31p97vke22c2g5o8kmflg8v05c8t24ig!nd_dft_wgth_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1763994158000,
+  "last_update_time": 1763994158000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/69246a2e000000001b026390",
+  "xsec_token": "ABwGdpd94FrUMhsckDeNGMW1McWs462Vz7ltIVaQlyRKI="
+}

@@ -1,0 +1,83 @@
+{
+  "note_id": "68e126aa00000000070003cd",
+  "title": "实时图像分割新王者来了",
+  "desc": "CV圈又炸了，RF-DETR Seg直接重新定义了实时分割的天花板。\n\t\n数据说话，同样速度下比YOLO模型精度暴涨8个mAP，这意味着什么？原本漏掉的细节现在都能抓住了。更夸张的是速度，比那些老牌Transformer模型快10到100倍，精度还不掉。\n\t\n这对做边缘部署的开发者来说就是降维打击，以前要在精度和速度之间纠结半天，现在直接两手抓。无人机避障、自动驾驶、工业检测这些场景，终于不用削足适履了。\n\t\n技术路线上它走的是DETR改进方向，把实时性和Transformer优势结合得死死的。之前大家总说Transformer太慢不适合落地，这下被打脸了。\n\t\n对普通开发者最友好的是什么？不用再为了上线速度去牺牲模型效果，该有的准确率一个不少，推理时间还能控制住，这才是真正工程化的模型。\n\t\n#CV算法[话题]# #深度学习[话题]# #计算机视觉[话题]# #目标检测[话题]# #AI技术[话题]# #模型优化[话题]# #实例分割[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/60f4d204000000000101f937.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "6298b6a9000000000101ecab",
+      "name": "CV算法",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习"
+    },
+    {
+      "id": "5f2a8172000000000101ca75",
+      "name": "计算机视觉",
+      "type": "topic"
+    },
+    {
+      "id": "607e9fb50000000001003fb6",
+      "name": "目标检测",
+      "type": "topic"
+    },
+    {
+      "id": "5d6c4be4000000000103be34",
+      "name": "AI技术",
+      "type": "topic"
+    },
+    {
+      "id": "62b86c9e000000000101fcf4",
+      "name": "模型优化",
+      "type": "topic"
+    },
+    {
+      "id": "62888841000000000101d52d",
+      "name": "实例分割",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/def505d6f30a8088250a41acb73cb8ea/spectrum/1040g34o31n7i6h43500g5o7kq820bu9nvontsb0!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041107/5bf45a0052831fc61b255521f93c5614/spectrum/1040g34o31n7i6h43500g5o7kq820bu9nvontsb0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041107/def505d6f30a8088250a41acb73cb8ea/spectrum/1040g34o31n7i6h43500g5o7kq820bu9nvontsb0!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041107/5bf45a0052831fc61b255521f93c5614/spectrum/1040g34o31n7i6h43500g5o7kq820bu9nvontsb0!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 1164,
+      "url": "",
+      "stream": {},
+      "height": 1665
+    }
+  ],
+  "video_url": "",
+  "time": 1759585962000,
+  "last_update_time": 1759585962000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68e126aa00000000070003cd",
+  "xsec_token": "ABFTSqKvkwwDg2CX0gn6vYwZzArTGuEav9NBLxpNCW7G4="
+}

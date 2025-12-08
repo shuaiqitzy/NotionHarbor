@@ -1,0 +1,182 @@
+{
+  "note_id": "67174ef00000000024017cd7",
+  "title": "医学图像与自然图像的核心区别",
+  "desc": "1⃣成像原理的差异\n医学图像主要来源于放射、磁共振、超声等成像方式，光谱相对单一；而 自然图像则依赖自然光，光谱复杂，含有更多散射成分。因此，医学图像中的噪声分布不均匀，往往为泊松噪声，而自然图像的噪声可以近似为高斯噪声。设计算法时，医学图像的这种特殊性决定了不能简单套用自然图像的降噪方法。\n2⃣图像特征与处理方法\n医学图像多为单通道灰度图，且大多为3D数据，没有景深概念。相比之下，自然图像中景深引发的边缘模糊、小目标检测问题，在医学图像中并不适用。医学图像中的小异常（如肺部病灶）是因为其纹理与周围区域的显著差异，而非形态的缩小或模糊。因此，在医学图像中，算法的设计应更多关注这些细微的区域差异。\n3⃣图像信息与挑战\n医学图像的高相似性给算法设计带来了独特挑战。大多数同部位、同体态的医学图像几乎一致，因此，图像中的细微变化可能代表重大病变。这些细微纹理在医学图像中不能被忽视，传统用于自然图像的指标（如SSIM）在此失效。\n4⃣医学图像的拍摄与显示\n医学图像拍摄过程复杂，涉及多项硬件因素，如探测器性能、机械精度等，成本高、难度大。此外，医学图像中细节展示至关重要，医用显示设备通常需要高精度灰阶显示，而这类设备价格昂贵。#医学影像学[话题]# #循环神经网络[话题]# #医学期刊[话题]# #图像分割[话题]# #机器学习[话题]# #图像识别[话题]# #算法优化[话题]# #论文辅导一对一[话题]# #sci论文[话题]# #python[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhejp6gkq605p41cdkn566cd1l9610?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5c852800000000000e00b736",
+      "name": "医学影像学",
+      "type": "topic"
+    },
+    {
+      "id": "631c7bf1000000000101fc57",
+      "name": "循环神经网络",
+      "type": "topic"
+    },
+    {
+      "id": "6051755a000000000101ea52",
+      "name": "医学期刊",
+      "type": "topic"
+    },
+    {
+      "id": "6185e0620000000001008ff3",
+      "name": "图像分割",
+      "type": "topic"
+    },
+    {
+      "id": "5c6bb611000000000f0101ee",
+      "name": "机器学习",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "603c9bfc0000000001006656",
+      "name": "图像识别"
+    },
+    {
+      "id": "605db6be0000000001004133",
+      "name": "算法优化",
+      "type": "topic"
+    },
+    {
+      "id": "62858c730000000001000abf",
+      "name": "论文辅导一对一",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5e7d589e00000000010081cf",
+      "name": "sci论文"
+    },
+    {
+      "type": "topic",
+      "id": "608b992400000000010089c5",
+      "name": "python"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 1656,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041110/d4a9165babe8749a90b376238c6b868e/1040g0083198ek3u8ko605p41cdkn566c7hv4he0!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041110/3ff0a7f377b8e11fe7eaded51357c90f/1040g0083198ek3u8ko605p41cdkn566c7hv4he0!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "width": 1242,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/d4a9165babe8749a90b376238c6b868e/1040g0083198ek3u8ko605p41cdkn566c7hv4he0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/3ff0a7f377b8e11fe7eaded51357c90f/1040g0083198ek3u8ko605p41cdkn566c7hv4he0!nd_dft_wlteh_webp_3"
+        }
+      ]
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041110/634d3adb1d0a9da7f17b73466f7d9cbf/1040g0083198ek3u8ko5g5p41cdkn566chchc4mg!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "height": 1336,
+      "width": 1080,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/e21416e1cda8d0deb8162fb39d7b49ec/1040g0083198ek3u8ko5g5p41cdkn566chchc4mg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/634d3adb1d0a9da7f17b73466f7d9cbf/1040g0083198ek3u8ko5g5p41cdkn566chchc4mg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041110/e21416e1cda8d0deb8162fb39d7b49ec/1040g0083198ek3u8ko5g5p41cdkn566chchc4mg!nd_prv_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041110/148eb361cac7df934b9a4b726f5ccf5f/1040g0083198ek3u8ko505p41cdkn566cgd65co8!nd_prv_wgth_webp_3",
+      "stream": {},
+      "url": "",
+      "trace_id": "",
+      "width": 1080,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/148eb361cac7df934b9a4b726f5ccf5f/1040g0083198ek3u8ko505p41cdkn566cgd65co8!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/42872499eb65a5c340531ac845f32859/1040g0083198ek3u8ko505p41cdkn566cgd65co8!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041110/42872499eb65a5c340531ac845f32859/1040g0083198ek3u8ko505p41cdkn566cgd65co8!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 1014
+    },
+    {
+      "height": 826,
+      "width": 1080,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041110/e00b9b7b473ebdc66148f42356076827/1040g0083198ek3u8ko405p41cdkn566c4f29o60!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041110/db6d31b19f020ca39423298b7a338286/1040g0083198ek3u8ko405p41cdkn566c4f29o60!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/e00b9b7b473ebdc66148f42356076827/1040g0083198ek3u8ko405p41cdkn566c4f29o60!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/db6d31b19f020ca39423298b7a338286/1040g0083198ek3u8ko405p41cdkn566c4f29o60!nd_dft_wgth_webp_3"
+        }
+      ],
+      "stream": {},
+      "url": ""
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/1fe1f8fb1aa03d01ad5a16e3ee789387/1040g0083198ek3u8ko305p41cdkn566cfqoslng!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041110/b1efa613ed3428013311b7ae534734fb/1040g0083198ek3u8ko305p41cdkn566cfqoslng!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041110/b1efa613ed3428013311b7ae534734fb/1040g0083198ek3u8ko305p41cdkn566cfqoslng!nd_dft_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 857,
+      "url": "",
+      "live_photo": false,
+      "width": 1080,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041110/1fe1f8fb1aa03d01ad5a16e3ee789387/1040g0083198ek3u8ko305p41cdkn566cfqoslng!nd_prv_wgth_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1729580784000,
+  "last_update_time": 1729580785000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/67174ef00000000024017cd7",
+  "xsec_token": "ABswpK_HDXPg0qyzeDuln3pcpG714hyCmY5MxwElw5B0M="
+}

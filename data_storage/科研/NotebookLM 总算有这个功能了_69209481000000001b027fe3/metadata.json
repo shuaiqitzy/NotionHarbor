@@ -1,0 +1,98 @@
+{
+  "note_id": "69209481000000001b027fe3",
+  "title": "NotebookLM 总算有这个功能了",
+  "desc": "这两个功能也是灰度一段时间了，一直没机会用上\n\t\n🌟 1. Infographic 信息图\n一句话形容： 你提供内容，AI 帮你把信息变成超专业的信息图。\n适合：数据结论、行业拆解、趋势总结、知识普及。\n以前要我自己做？半小时起步，当然现在也可以用 Nano Banana Pro 直出信息图\n\t\n🌟 2. Slide Deck 幻灯片\n这个更狠。 你丢给 NotebookLM 一个 PDF、一篇文章、一堆资料，它能自动帮你：\n提炼结构\n拆出重点\n排好 PPT 逻辑\n自动生成一套可直接用的幻灯片\n做方案的同学舒服了\n\t\n肯定会有人说，那和我在 Gemini 里直接生成 PPT 有什么区别？\n\t\n#AI[话题]# #ai[话题]# #AIGC[话题]# #大模型[话题]# #AI工具[话题]#  #效率神器[话题]#  #notebooklm[话题]#  #人工智能[话题]#  #先进生产力[话题]# #AI新手村[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ov39tsrhk005otig609bnt4p9garpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "type": "topic",
+      "id": "5d6b7cdb000000000103e136",
+      "name": "AI"
+    },
+    {
+      "id": "5c1c3c9a000000000a030af3",
+      "name": "ai",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "62b20313000000000101f2ce",
+      "name": "AIGC"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "635679cb000000000100505c",
+      "name": "AI工具",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5ed3b04b000000000101d99d",
+      "name": "效率神器"
+    },
+    {
+      "name": "notebooklm",
+      "type": "topic",
+      "id": "64cfbc40000000001403b52e"
+    },
+    {
+      "type": "topic",
+      "id": "620cd421000000000100130c",
+      "name": "人工智能"
+    },
+    {
+      "id": "63a12bbb00000000010039da",
+      "name": "先进生产力",
+      "type": "topic"
+    },
+    {
+      "id": "63ed18c40000000001000a8d",
+      "name": "AI新手村",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "height": 1982,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/a7e7b9510f70058619a6601849b0e390/spectrum/1040g34o31p5gbkce26005otig609bnt4i133d10!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/128904535e136d405b748762a380122a/spectrum/1040g34o31p5gbkce26005otig609bnt4i133d10!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "width": 1486,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/a7e7b9510f70058619a6601849b0e390/spectrum/1040g34o31p5gbkce26005otig609bnt4i133d10!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/128904535e136d405b748762a380122a/spectrum/1040g34o31p5gbkce26005otig609bnt4i133d10!nd_dft_wlteh_webp_3",
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1763742849000,
+  "last_update_time": 1763833548000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/69209481000000001b027fe3",
+  "xsec_token": "AB1_GfMMDEbaaGeh0d-R_cwTGX723qpV-JgSnM-LVU1uc="
+}

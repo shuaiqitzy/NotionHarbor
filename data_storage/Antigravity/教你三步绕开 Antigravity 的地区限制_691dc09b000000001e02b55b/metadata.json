@@ -1,0 +1,267 @@
+{
+  "note_id": "691dc09b000000001e02b55b",
+  "title": "教你三步绕开 Antigravity 的地区限制",
+  "desc": "Google 发布了最新的 IDE -- Antigravity，今天很多人都问我说打开时提示所属地区被限制，无法打开怎么办？这里教大家三步来绕过限制。\n\t\n首先你要有个 Gmail 邮箱，不过我看网上有些人说国内的邮箱也注册成功了，这个我就不知道了，大家如果有好的方法也可以分享下。\n\t\n然后\n\t\n第一步：打开邮箱，打开账号管理，将语言改成英文\n\t\n第二步，同样是账号管理，将支付的信息管理随便选择一个美国的地区即可（网上随便搜一个就好了，或者可以用 AI IDE 帮你填写）\n\t\n第三步：从头像处，点击 Privacy Policy，然后进入 FAQ 里，选择更改地区，将地区改为刚才你填写的地区地址。\n\t\n然后大概一个小时左右，你就可以收到邮箱回复，通知你地区更改成功，然后你就可以按照指引来打开Antigravity了！\n\t\n接下来，我会重度使用一段时间Antigravity，然后给大家分享真实项目里我的最佳实践和感受。\n\t\n#AI工具[话题]# #vibecoding[话题]# #开发[话题]# #google[话题]# #gemini[话题]# #antigravity[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pguh5se2o6g5olgnf46deinclsdkqo?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "AI工具",
+      "type": "topic",
+      "id": "635679cb000000000100505c"
+    },
+    {
+      "id": "67c0e68e00000000040164b0",
+      "name": "vibecoding",
+      "type": "topic"
+    },
+    {
+      "id": "5bfc80dd3f6add00019e7910",
+      "name": "开发",
+      "type": "topic"
+    },
+    {
+      "id": "5bea088b85cfbb000108056b",
+      "name": "google",
+      "type": "topic"
+    },
+    {
+      "id": "5d2acf50000000001803fa96",
+      "name": "gemini",
+      "type": "topic"
+    },
+    {
+      "id": "61d14801000000000101e343",
+      "name": "antigravity",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/cdff9fd3249e9aef7e86032c14b6a91e/spectrum/1040g34o31p2nnm5c24105olgnf46dein4ij34dg!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1600,
+      "width": 1200,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/cdff9fd3249e9aef7e86032c14b6a91e/spectrum/1040g34o31p2nnm5c24105olgnf46dein4ij34dg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/de6bd7ca054719ad949d4dbadc915783/spectrum/1040g34o31p2nnm5c24105olgnf46dein4ij34dg!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/de6bd7ca054719ad949d4dbadc915783/spectrum/1040g34o31p2nnm5c24105olgnf46dein4ij34dg!nd_dft_wlteh_webp_3"
+    },
+    {
+      "width": 858,
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/5c936fc6a971729a81a35f730ba2a132/spectrum/1040g0k031p2nnqah2c0g5olgnf46deinss2rd8o!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/b4c0ea784bcdde3b210f0e6a6b7b5f64/spectrum/1040g0k031p2nnqah2c0g5olgnf46deinss2rd8o!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/5c936fc6a971729a81a35f730ba2a132/spectrum/1040g0k031p2nnqah2c0g5olgnf46deinss2rd8o!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/b4c0ea784bcdde3b210f0e6a6b7b5f64/spectrum/1040g0k031p2nnqah2c0g5olgnf46deinss2rd8o!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 990,
+      "url": "",
+      "live_photo": false
+    },
+    {
+      "stream": {},
+      "width": 2384,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/76f6040b5ad745a1f7df4138b3e54f0e/spectrum/1040g0k031p2nnqah2c105olgnf46dein9g98nm0!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/e4f5a4840cb88df3da38c1c0354a21ba/spectrum/1040g0k031p2nnqah2c105olgnf46dein9g98nm0!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/76f6040b5ad745a1f7df4138b3e54f0e/spectrum/1040g0k031p2nnqah2c105olgnf46dein9g98nm0!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/e4f5a4840cb88df3da38c1c0354a21ba/spectrum/1040g0k031p2nnqah2c105olgnf46dein9g98nm0!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 936,
+      "url": "",
+      "trace_id": ""
+    },
+    {
+      "height": 824,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/0adf0458ba5a479f218190f4f4b99b2e/spectrum/1040g0k031p2nnqah2c1g5olgnf46deinvfuflm8!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/fc15a8bcdf036f61802746e01c0f14ca/spectrum/1040g0k031p2nnqah2c1g5olgnf46deinvfuflm8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/0adf0458ba5a479f218190f4f4b99b2e/spectrum/1040g0k031p2nnqah2c1g5olgnf46deinvfuflm8!nd_prv_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "width": 2150,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/fc15a8bcdf036f61802746e01c0f14ca/spectrum/1040g0k031p2nnqah2c1g5olgnf46deinvfuflm8!nd_dft_wgth_webp_3",
+      "live_photo": false
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/aba0690d048ba954fe4b9a7d153123f1/spectrum/1040g0k031p2nnqah2c205olgnf46dein2ii0f9o!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/61a4a08c6a588cfae690349b8742ef66/spectrum/1040g0k031p2nnqah2c205olgnf46dein2ii0f9o!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/aba0690d048ba954fe4b9a7d153123f1/spectrum/1040g0k031p2nnqah2c205olgnf46dein2ii0f9o!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/61a4a08c6a588cfae690349b8742ef66/spectrum/1040g0k031p2nnqah2c205olgnf46dein2ii0f9o!nd_prv_wgth_webp_3",
+      "height": 1396,
+      "width": 2354
+    },
+    {
+      "live_photo": false,
+      "width": 870,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/7ea438e34e503341bd0692e5a7f276e4/spectrum/1040g0k031p2nnqah2c2g5olgnf46dein5hu4pe0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/e6058c4853c60368f6a267db48aadbcd/spectrum/1040g0k031p2nnqah2c2g5olgnf46dein5hu4pe0!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "stream": {},
+      "file_id": "",
+      "height": 990,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/7ea438e34e503341bd0692e5a7f276e4/spectrum/1040g0k031p2nnqah2c2g5olgnf46dein5hu4pe0!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/e6058c4853c60368f6a267db48aadbcd/spectrum/1040g0k031p2nnqah2c2g5olgnf46dein5hu4pe0!nd_dft_wlteh_webp_3"
+    },
+    {
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/a29bc9b798b0856e6129a7512309af1c/spectrum/1040g0k031p2nnqah2c305olgnf46deinc5e0lqo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/de72487519623cc1872a9826eb5102b8/spectrum/1040g0k031p2nnqah2c305olgnf46deinc5e0lqo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/de72487519623cc1872a9826eb5102b8/spectrum/1040g0k031p2nnqah2c305olgnf46deinc5e0lqo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 860,
+      "width": 2520,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/a29bc9b798b0856e6129a7512309af1c/spectrum/1040g0k031p2nnqah2c305olgnf46deinc5e0lqo!nd_prv_wgth_webp_3"
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/1a89ca24be53ffb86648257ffca4c373/spectrum/1040g0k031p2nnqah2c3g5olgnf46dein1mnspv0!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1452,
+      "width": 2086,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/055bbd1b9a8b56736ad0c8b01eded72f/spectrum/1040g0k031p2nnqah2c3g5olgnf46dein1mnspv0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/1a89ca24be53ffb86648257ffca4c373/spectrum/1040g0k031p2nnqah2c3g5olgnf46dein1mnspv0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/055bbd1b9a8b56736ad0c8b01eded72f/spectrum/1040g0k031p2nnqah2c3g5olgnf46dein1mnspv0!nd_prv_wgth_webp_3"
+    },
+    {
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/6f7c148c0c9876ec11ae8a8c7ae9d745/spectrum/1040g0k031p2nnqah2c405olgnf46deinkgujaj0!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/5232396f095cac262546ac3f1a65aadf/spectrum/1040g0k031p2nnqah2c405olgnf46deinkgujaj0!nd_prv_wgth_webp_3",
+      "file_id": "",
+      "height": 902,
+      "width": 1086,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/5232396f095cac262546ac3f1a65aadf/spectrum/1040g0k031p2nnqah2c405olgnf46deinkgujaj0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/6f7c148c0c9876ec11ae8a8c7ae9d745/spectrum/1040g0k031p2nnqah2c405olgnf46deinkgujaj0!nd_dft_wgth_webp_3"
+        }
+      ]
+    },
+    {
+      "height": 832,
+      "width": 1408,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/f68d3a9c0d051d817bc094b74786e690/spectrum/1040g0k031p2nnqah2c005olgnf46dein7comab8!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/5bc4a0950c25977985e3d4b079ee09fc/spectrum/1040g0k031p2nnqah2c005olgnf46dein7comab8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/5bc4a0950c25977985e3d4b079ee09fc/spectrum/1040g0k031p2nnqah2c005olgnf46dein7comab8!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/f68d3a9c0d051d817bc094b74786e690/spectrum/1040g0k031p2nnqah2c005olgnf46dein7comab8!nd_prv_wgth_webp_3",
+      "stream": {}
+    }
+  ],
+  "video_url": "",
+  "time": 1763557531000,
+  "last_update_time": 1763557531000,
+  "album": "Antigravity",
+  "note_url": "https://www.xiaohongshu.com/explore/691dc09b000000001e02b55b",
+  "xsec_token": "ABAkV_VpecWduAvNBfvdFCUGZMMCxbKeTUKWCpSyb9Ot4="
+}

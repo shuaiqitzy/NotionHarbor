@@ -1,0 +1,73 @@
+{
+  "note_id": "691b7bd10000000004029dad",
+  "title": "AI编程：Claude Code 四个必会功能",
+  "desc": "「AI 编程零基础」系列的第三集。前两期我们已经把飞船小游戏跑起来，并且用 GitHub 做了版本管理。这一集专门讲一讲 Claude Code 几个实用功能：\n\t\n如何继续上一次的项目（resume），\n如何通过按两次 ESC 打开对话检查点列表、回到之前的进度，\n以及在对话太长、AI 开始“跑偏”时，用 compact 精简上下文、用 clear 重置当前对话。\n\t\n这些功能可以让你在日常用 AI 改代码的时候，更容易接上进度、回顾中间做了什么、在乱掉的时候干净地重新开始。对于已经在用 Claude Code、但还不太清楚操作的朋友，本期视频可以帮你快速掌握 Claude Code 常用命令。\n\t\n#claudecode[话题]# #零基础编程[话题]# #编程[话题]# #AI工具[话题]# #yicodingAI编程[话题]#",
+  "type": "video",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mk790s4kq005orbrk8nrhumrmemokg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "claudecode",
+      "type": "topic",
+      "id": "67bcd80d000000000401f5a0"
+    },
+    {
+      "id": "61307860000000000101f6b2",
+      "name": "零基础编程",
+      "type": "topic"
+    },
+    {
+      "id": "5be6f604db601f0001f98c11",
+      "name": "编程",
+      "type": "topic"
+    },
+    {
+      "id": "635679cb000000000100505c",
+      "name": "AI工具",
+      "type": "topic"
+    },
+    {
+      "id": "6919ae49000000002502f5cd",
+      "name": "yicodingAI编程",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041112/e723e373870c9742278195b8fabdbe52/spectrum/1040g34o31p0h483j24105orbrk8nrhumknb12i8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/b89045c05b9fcb8ac3217bbaa0de2a8e/spectrum/1040g34o31p0h483j24105orbrk8nrhumknb12i8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/e723e373870c9742278195b8fabdbe52/spectrum/1040g34o31p0h483j24105orbrk8nrhumknb12i8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041112/b89045c05b9fcb8ac3217bbaa0de2a8e/spectrum/1040g34o31p0h483j24105orbrk8nrhumknb12i8!nd_prv_wlteh_webp_3",
+      "width": 1011,
+      "url": "",
+      "trace_id": "",
+      "file_id": "",
+      "height": 1348
+    }
+  ],
+  "video_url": "",
+  "time": 1763408849000,
+  "last_update_time": 1763408900000,
+  "album": "ClaudeCode",
+  "note_url": "https://www.xiaohongshu.com/explore/691b7bd10000000004029dad",
+  "xsec_token": "ABj-EhcbuTFUVC-n-jhVmynBwfUyPHQq8gpN7ZjNW82T8="
+}

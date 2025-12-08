@@ -1,0 +1,261 @@
+{
+  "note_id": "692034e4000000001e00c82b",
+  "title": "Overleaf + Kimi，搞定Old School PPT",
+  "desc": "看到@张绍磊-RUC 老师最近开源了一个新项目DeepAnalyze，面向数据科学的Agentic LLM。\n\t\n支持:\n\t\n数据任务：支持自动化数据准备、分析、建模、可视化、洞察；\n\t\n数据研究：可在非结构化数据（TXT、Markdown）、半结构化数据（JSON、XML、YAML）及结构化数据（数据库、CSV、Excel）中进行深度研究\n\t\n论文、模型和代码都已经开源。发布之后登上了hf daily Paper第一，github 1.6k star了，非常猛。\n\t\n刚好最近一直在用Kimi的OK Computer，一拍即合，尝试让Kimi做个论文PPT。\n\t\nKimi上点击computer use，然后把论文和基本信息输入给kimi，在过程中发现kimi连不上github，看了眼github内容，基本论文里都覆盖的很好，也就暂时不管了。发现直接让kimi从arxiv提取文章内容，容易概括的较为简练。因此分步解决，首先下载论文pdf，然后让kimi进行完整内容梳理。之后将梳理后的内容作为上下文和PPT需求一起输入，让kimi开始okc，kimi输出最终的tex文档，然后放到overleaf上渲染即可。\n\t\n#科技[话题]# #大模型[话题]# #kimi[话题]# #人工智能[话题]# #ppt[话题]# #aippt[话题]# #aippt生成[话题]# #人类高质量科研工具[话题]# #科研[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fnf32v4ge0049mqjkc8f2pr0sqoqig?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "科技",
+      "type": "topic",
+      "id": "5c9b9c05000000000f03ec1e"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "5cfa610e000000000d0003d1",
+      "name": "kimi",
+      "type": "topic"
+    },
+    {
+      "id": "620cd421000000000100130c",
+      "name": "人工智能",
+      "type": "topic"
+    },
+    {
+      "id": "5bea7d342e09150001ee1ae1",
+      "name": "ppt",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "6425091f000000000d03f4d2",
+      "name": "aippt"
+    },
+    {
+      "id": "65aa078b00000000020025cd",
+      "name": "aippt生成",
+      "type": "topic"
+    },
+    {
+      "id": "6211cf110000000001009638",
+      "name": "人类高质量科研工具",
+      "type": "topic"
+    },
+    {
+      "id": "5be635a9d111a50001a4436e",
+      "name": "科研",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "stream": {},
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/b54987c536660b031fb7686b6f6ad6da/1040g00831p545933i82g49mqjkc8f2pr0fat1e8!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "height": 1280,
+      "width": 884,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/4c996fb47d8636d3115edf76802143b6/1040g00831p545933i82g49mqjkc8f2pr0fat1e8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/b54987c536660b031fb7686b6f6ad6da/1040g00831p545933i82g49mqjkc8f2pr0fat1e8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/4c996fb47d8636d3115edf76802143b6/1040g00831p545933i82g49mqjkc8f2pr0fat1e8!nd_prv_wlteh_webp_3"
+    },
+    {
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/950f112cdf9b25c35de01d4f77d92a6d/1040g00831p545933i82049mqjkc8f2pri5qkqn8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/fb603cc1e193048a6b4da33768c97864/1040g00831p545933i82049mqjkc8f2pri5qkqn8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/950f112cdf9b25c35de01d4f77d92a6d/1040g00831p545933i82049mqjkc8f2pri5qkqn8!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1280,
+      "width": 884,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/fb603cc1e193048a6b4da33768c97864/1040g00831p545933i82049mqjkc8f2pri5qkqn8!nd_dft_wlteh_webp_3"
+    },
+    {
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/1d614215f8e1fc5f3413558909281de7/1040g00831p545933i84049mqjkc8f2pr5b08prg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/92c4a880fe228d6da01d6c8124222edf/1040g00831p545933i84049mqjkc8f2pr5b08prg!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/1d614215f8e1fc5f3413558909281de7/1040g00831p545933i84049mqjkc8f2pr5b08prg!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 884,
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/92c4a880fe228d6da01d6c8124222edf/1040g00831p545933i84049mqjkc8f2pr5b08prg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "height": 1280
+    },
+    {
+      "height": 1280,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/47e7b6d91f098c8f8228d981c32c0444/1040g00831p545933i83g49mqjkc8f2pr5gv4p5g!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/8109e64892146ec4e6040f7944855ee2/1040g00831p545933i83g49mqjkc8f2pr5gv4p5g!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/8109e64892146ec4e6040f7944855ee2/1040g00831p545933i83g49mqjkc8f2pr5gv4p5g!nd_dft_wlteh_webp_3",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/47e7b6d91f098c8f8228d981c32c0444/1040g00831p545933i83g49mqjkc8f2pr5gv4p5g!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "width": 884,
+      "url": "",
+      "trace_id": ""
+    },
+    {
+      "trace_id": "",
+      "live_photo": false,
+      "width": 904,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/0baed5be59c89c99a2cf3943c091e4c5/1040g00831p545933i83049mqjkc8f2prn9raqr8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/167413e6c41415e19aa4c41da2c1b30d/1040g00831p545933i83049mqjkc8f2prn9raqr8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/0baed5be59c89c99a2cf3943c091e4c5/1040g00831p545933i83049mqjkc8f2prn9raqr8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/167413e6c41415e19aa4c41da2c1b30d/1040g00831p545933i83049mqjkc8f2prn9raqr8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 1280
+    },
+    {
+      "file_id": "",
+      "height": 1280,
+      "live_photo": false,
+      "width": 842,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/480526fd90cbe8285a1bac97d2364557/1040g00831p545933i84g49mqjkc8f2prjrmgqo8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/4f5a99c82cd29f53d527125c46d78c23/1040g00831p545933i84g49mqjkc8f2prjrmgqo8!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/480526fd90cbe8285a1bac97d2364557/1040g00831p545933i84g49mqjkc8f2prjrmgqo8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/4f5a99c82cd29f53d527125c46d78c23/1040g00831p545933i84g49mqjkc8f2prjrmgqo8!nd_dft_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "live_photo": false,
+      "height": 695,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/dbf96c575c54aa56bad461d1399590d5/1040g00831p545933i81g49mqjkc8f2prftfutb0!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/e7684d4b3b17350b5f6e25b2dbb13482/1040g00831p545933i81g49mqjkc8f2prftfutb0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/dbf96c575c54aa56bad461d1399590d5/1040g00831p545933i81g49mqjkc8f2prftfutb0!nd_prv_wgth_webp_3",
+      "file_id": "",
+      "width": 1280,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/e7684d4b3b17350b5f6e25b2dbb13482/1040g00831p545933i81g49mqjkc8f2prftfutb0!nd_dft_wgth_webp_3",
+      "stream": {}
+    },
+    {
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/625c70b47980dc7e0e047a772140df2f/1040g00831p545933i81049mqjkc8f2prib2s5t8!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/66065b2236ce66f476e39d92fbe11a9c/1040g00831p545933i81049mqjkc8f2prib2s5t8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/625c70b47980dc7e0e047a772140df2f/1040g00831p545933i81049mqjkc8f2prib2s5t8!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/66065b2236ce66f476e39d92fbe11a9c/1040g00831p545933i81049mqjkc8f2prib2s5t8!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "height": 1129,
+      "width": 1280,
+      "url": "",
+      "stream": {},
+      "file_id": ""
+    },
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/37d2fd2974ef67b4a9ae085ccd835f71/1040g00831p545933i80g49mqjkc8f2prj2v423o!nd_prv_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "width": 1280,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/37d2fd2974ef67b4a9ae085ccd835f71/1040g00831p545933i80g49mqjkc8f2prj2v423o!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/361c026641e9a55102d2759f575cc0b7/1040g00831p545933i80g49mqjkc8f2prj2v423o!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/361c026641e9a55102d2759f575cc0b7/1040g00831p545933i80g49mqjkc8f2prj2v423o!nd_dft_wgth_webp_3",
+      "height": 806
+    }
+  ],
+  "video_url": "",
+  "time": 1763722803000,
+  "last_update_time": 1763718373000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/692034e4000000001e00c82b",
+  "xsec_token": "AB1_GfMMDEbaaGeh0d-R_cwQwEyPxiwXsQFSWJgT0z4cI="
+}

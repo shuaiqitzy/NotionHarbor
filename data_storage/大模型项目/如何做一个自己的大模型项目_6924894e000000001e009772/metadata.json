@@ -1,0 +1,98 @@
+{
+  "note_id": "6924894e000000001e009772",
+  "title": "如何做一个自己的大模型项目",
+  "desc": "大家好呀，今天我想给大家分享一下关于大模型项目的问题。\n我相信不管是应届生还是很多想转行的社招同学，最困扰自己的估计是没有一个大模型的项目。\n我的个人经验是，结合自己的工作内容找到一个痛点，或者研究生同学可以结合实验室的项目，做一个Agent项目。\nLLM就像一个会思考的人，有了这个能力，可以发现可以使用大模型提升能力的地方很多。 比如企业内部的问答，一些流程系统的自动化，或者一些提效的工具等，结合这些痛点做一个Agent。\n\t\n为什么要结合实验室/工作需求去做，这是因为这样你写在简历上，看上去有点像是你的工作内容和项目，看着不像是纯个人项目，这样面试机会会大一些。\n通常来说，一般大学生的路线是先去找实习，然后最少刷一段实习，然后再去秋招。 对于大学生来说，如果是完全和实验室无关的项目，也没太大关系，作为你的入行实习的敲门砖是够了。 比如我就知道有2个大学同学，做了一个哲学的辩论系统，做的有模有样的，这个完全够用来找实习了。\n\t\n除此之外，你的项目基本上就是面试官考察你的重要模块，也是串起你知识点的重要模块。所以设计项目的时候，最好能够把这些技术都串进去，以下都是面试最常考的点：\nAgent RAG,  记忆模块，评价模块，MCP，multi-agent\n\t\n最开始可以使用远程的API去调用，集成不同厂商的 llm。\n把上面的技术做好，功能做好，对于大模型应用的相关技术已经覆盖到了。\n\t\n接下来再想一下，对于你的场景和设备，有没有优化的空间，性能，效果上？\n考虑下使用自己的模型，使用微调，强化学习，训练一下模型，使用量化，剪枝，蒸馏等技术压缩模型，提高推理速度。 给自己定一个需求，把这些点跑一下，想清楚。\n\t\n比如你的项目是跑在一个CPU的机器上，资源受限，使用本地模型如何提升速度，使用什么推理框架更好。 如果是跑在Android机器上呢？ 根据这个需求出发，来优化效果。\n做到这一块，你的模型训练，微调，推理加速方面的知识也有了。\n\t\n有余力者还可以试下多模态。\n\t\n总之我是按照这个方向，把这个项目做好，顺着这些要点去学习。\n如果是把这些都做好，找工作的角度来说肯定差不多了。 如果一些企业就是一定要卡你是落地项目的，那我觉得没办法。但目前以我的经验来说，还没有公司卡的这么严格，主要还是败在自己做的不深，答得不好上。\n\t\n#大模型[话题]# #openai[话题]# #llm[话题]# #算法[话题]# #人工智能未来[话题]# #AI人工智能[话题]# #开发[话题]# #互联网大厂[话题]# #大模型应用开发[话题]# #aiagent[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/65e06c4ac784184ef4f6b633.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "type": "topic",
+      "id": "624d11eb000000000101e223",
+      "name": "大模型"
+    },
+    {
+      "id": "61fb2c7700000000010056ab",
+      "name": "openai",
+      "type": "topic"
+    },
+    {
+      "id": "6147484d000000000101e744",
+      "name": "llm",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法"
+    },
+    {
+      "id": "640adf10000000001803d49e",
+      "name": "人工智能未来",
+      "type": "topic"
+    },
+    {
+      "id": "5df626120000000001001a09",
+      "name": "AI人工智能",
+      "type": "topic"
+    },
+    {
+      "id": "5bfc80dd3f6add00019e7910",
+      "name": "开发",
+      "type": "topic"
+    },
+    {
+      "id": "5fd62942000000000100036d",
+      "name": "互联网大厂",
+      "type": "topic"
+    },
+    {
+      "id": "652c8bd0000000000d006c89",
+      "name": "大模型应用开发",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "64d28710000000001a01616e",
+      "name": "aiagent"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 1600,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/0395437dce353e006d8526f86b99c9d6/spectrum/1040g34o31p9aonef26105og5rnv41khup6fm52o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/1ce532098b0d63ca708bb12baf182c57/spectrum/1040g34o31p9aonef26105og5rnv41khup6fm52o!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "file_id": "",
+      "width": 1200,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/0395437dce353e006d8526f86b99c9d6/spectrum/1040g34o31p9aonef26105og5rnv41khup6fm52o!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/1ce532098b0d63ca708bb12baf182c57/spectrum/1040g34o31p9aonef26105og5rnv41khup6fm52o!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1764002126000,
+  "last_update_time": 1764003951000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/6924894e000000001e009772",
+  "xsec_token": "ABwGdpd94FrUMhsckDeNGMW3Abhb6cUT8YMDAuxA92xh4="
+}

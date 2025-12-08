@@ -1,0 +1,209 @@
+{
+  "note_id": "6912d8b00000000003034b11",
+  "title": "试了一下nanobanana绘图，学术界真天塌了啊",
+  "desc": "跟着博主学的，deepseek3.2➕nanobanana，出图又快又稳，如果不满意可以让他改颜色，改字，改配图等等\n\t\n🫟操作如图：\n\t\nPrompt：\n请分析我上传的科研插图内容，并生成一条完整的 AI绘图Q提示词。不要改变配色，描述应涵盖以下方面：\n1)核心主题与研究对象\n2)关键元素及细节(如分子/细胞/设备/变量)\n3)元素之间的 逻辑关系只与作用机制\n4)图中人物或对象的角色与特征\n5)图示中呈现的行为或实验流程\n6)构图结构(如流程图口、机制图等)\n7)图形与配色风格\n8)图像分辨率与清晰度要求，以及适合科研绘图的参数建议。\n\t\n然后根据ds给出来的提示词去banana生图，很稳\n\t\n🦊想要用nano大家都知道有一些条件，可以试试图6，不用其他条件，懂得都懂\n\t\n#博士[话题]# #科研学习[话题]# #科研人的精神状态[话题]# #科研绘图[话题]# #人类高质量科研工具[话题]# #科研日常[话题]# #文献查找[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kaih9f92o605q3v96f6s5c85tt6eo0?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "type": "topic",
+      "id": "5be9267650fe5600012a22f6",
+      "name": "博士"
+    },
+    {
+      "id": "5e06aec400000000010082fe",
+      "name": "科研学习",
+      "type": "topic"
+    },
+    {
+      "id": "634fea69000000000100931d",
+      "name": "科研人的精神状态",
+      "type": "topic"
+    },
+    {
+      "id": "5ff473ab000000000101c941",
+      "name": "科研绘图",
+      "type": "topic"
+    },
+    {
+      "id": "6211cf110000000001009638",
+      "name": "人类高质量科研工具",
+      "type": "topic"
+    },
+    {
+      "id": "5eba2d4a000000000101e240",
+      "name": "科研日常",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "5e5d833900000000010011a7",
+      "name": "文献查找"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 1903,
+      "width": 1749,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/12638af871806b78bc0510801f0a86fc/1040g00831op8c9oggg005q3v96f6s5c8b260ns8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/be6cde10fa66b585ac1e924f95d6604e/1040g00831op8c9oggg005q3v96f6s5c8b260ns8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/be6cde10fa66b585ac1e924f95d6604e/1040g00831op8c9oggg005q3v96f6s5c8b260ns8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/12638af871806b78bc0510801f0a86fc/1040g00831op8c9oggg005q3v96f6s5c8b260ns8!nd_prv_wlteh_webp_3",
+      "live_photo": false
+    },
+    {
+      "height": 832,
+      "width": 1248,
+      "url": "",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/5a9efd9b9f1eb63942272a62ccffe0ea/notes_pre_post/1040g3k831oo2v2hs583g5q3v96f6s5c8km1sm48!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/9e1f84174ac6cd3adb69aaf07a9ca151/notes_pre_post/1040g3k831oo2v2hs583g5q3v96f6s5c8km1sm48!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/5a9efd9b9f1eb63942272a62ccffe0ea/notes_pre_post/1040g3k831oo2v2hs583g5q3v96f6s5c8km1sm48!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/9e1f84174ac6cd3adb69aaf07a9ca151/notes_pre_post/1040g3k831oo2v2hs583g5q3v96f6s5c8km1sm48!nd_dft_wgth_webp_3"
+    },
+    {
+      "url": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/2db3e61131830e535013e5f39bdfd4de/notes_pre_post/1040g3k831oo2v2hs58405q3v96f6s5c811hf8s8!nd_dft_wgth_webp_3",
+      "stream": {},
+      "height": 399,
+      "width": 853,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/886287954033d9cc2d10068a769b10dd/notes_pre_post/1040g3k831oo2v2hs58405q3v96f6s5c811hf8s8!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/2db3e61131830e535013e5f39bdfd4de/notes_pre_post/1040g3k831oo2v2hs58405q3v96f6s5c811hf8s8!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/886287954033d9cc2d10068a769b10dd/notes_pre_post/1040g3k831oo2v2hs58405q3v96f6s5c811hf8s8!nd_prv_wgth_webp_3",
+      "live_photo": false,
+      "file_id": ""
+    },
+    {
+      "file_id": "",
+      "height": 759,
+      "width": 870,
+      "trace_id": "",
+      "live_photo": false,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/46f23b9c7149b3f566ef297ea80099a1/notes_pre_post/1040g3k831oo2v2hs584g5q3v96f6s5c87h6td40!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/6f38482918a9101845b05eb8afb3bab1/notes_pre_post/1040g3k831oo2v2hs584g5q3v96f6s5c87h6td40!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/46f23b9c7149b3f566ef297ea80099a1/notes_pre_post/1040g3k831oo2v2hs584g5q3v96f6s5c87h6td40!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/6f38482918a9101845b05eb8afb3bab1/notes_pre_post/1040g3k831oo2v2hs584g5q3v96f6s5c87h6td40!nd_dft_wgth_webp_3",
+      "stream": {}
+    },
+    {
+      "live_photo": false,
+      "width": 865,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/c66eb0a5356a66a79f9b85208bc3961a/notes_pre_post/1040g3k831oo2v2hs58505q3v96f6s5c8v9a6jgo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/68efdc3a3944dfb97d45540796450334/notes_pre_post/1040g3k831oo2v2hs58505q3v96f6s5c8v9a6jgo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/c66eb0a5356a66a79f9b85208bc3961a/notes_pre_post/1040g3k831oo2v2hs58505q3v96f6s5c8v9a6jgo!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/68efdc3a3944dfb97d45540796450334/notes_pre_post/1040g3k831oo2v2hs58505q3v96f6s5c8v9a6jgo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 719
+    },
+    {
+      "url": "",
+      "trace_id": "",
+      "file_id": "",
+      "height": 754,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/6afc21cbc6d9506664f15cafced795ad/notes_pre_post/1040g3k831oo2v2hs585g5q3v96f6s5c8lelrt3o!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/5c64d5eecc3d1a6acbc09055ab7faa8c/notes_pre_post/1040g3k831oo2v2hs585g5q3v96f6s5c8lelrt3o!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "width": 880,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/6afc21cbc6d9506664f15cafced795ad/notes_pre_post/1040g3k831oo2v2hs585g5q3v96f6s5c8lelrt3o!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/5c64d5eecc3d1a6acbc09055ab7faa8c/notes_pre_post/1040g3k831oo2v2hs585g5q3v96f6s5c8lelrt3o!nd_dft_wgth_webp_3"
+        }
+      ]
+    },
+    {
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/e04734196cd8ccc40a52d15248e8657d/notes_pre_post/1040g3k831oo2v2hs58605q3v96f6s5c82en2jk8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/f4c7994c09ae429eb6e4f9386fd0589b/notes_pre_post/1040g3k831oo2v2hs58605q3v96f6s5c82en2jk8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/f4c7994c09ae429eb6e4f9386fd0589b/notes_pre_post/1040g3k831oo2v2hs58605q3v96f6s5c82en2jk8!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "height": 1440,
+      "trace_id": "",
+      "stream": {},
+      "live_photo": false,
+      "width": 1080,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/e04734196cd8ccc40a52d15248e8657d/notes_pre_post/1040g3k831oo2v2hs58605q3v96f6s5c82en2jk8!nd_prv_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1762842800000,
+  "last_update_time": 1764226493000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/6912d8b00000000003034b11",
+  "xsec_token": "ABick9rIpjmVnU3njszVwbagzpmAa3Zj2hEIlWZbjdq7w="
+}

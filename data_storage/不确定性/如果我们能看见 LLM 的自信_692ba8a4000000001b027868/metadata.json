@@ -1,0 +1,47 @@
+{
+  "note_id": "692ba8a4000000001b027868",
+  "title": "如果我们能看见 LLM 的自信",
+  "desc": "其实每个 token 出来的时候都会带有 prob，可以看作是 LLM 对预测这个 token 有多大把握。只不过我们平时的AI聊天工具把这个信息扔掉了，所以我们不知道什么时候 AI 在瞎扯，什么时候是自信的。\n\t\n图1我把这个概率值可视化了，亮的就是自信的，暗的就是概率低的，让我们一起来读一读。\n\t\n比如第二个“图书馆”很亮，因为前面提到了“图书馆”。而从小王子里看到了“人生”的方向，LLM 这时似乎就没那么自信了。",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3155al6g0ha605pdgjt650tcq25nbgb0?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [],
+  "image_list": [
+    {
+      "file_id": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/0fe65e821da0bf326b1e5db40dab5ba3/notes_pre_post/1040g3k831pgae7t02ud05pdgjt650tcq1fput2g!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/754cd3fb910ea0b50d7e3ed054f8283c/notes_pre_post/1040g3k831pgae7t02ud05pdgjt650tcq1fput2g!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/754cd3fb910ea0b50d7e3ed054f8283c/notes_pre_post/1040g3k831pgae7t02ud05pdgjt650tcq1fput2g!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "height": 995,
+      "width": 734,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/0fe65e821da0bf326b1e5db40dab5ba3/notes_pre_post/1040g3k831pgae7t02ud05pdgjt650tcq1fput2g!nd_prv_wlteh_webp_3",
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1764468900000,
+  "last_update_time": 1764468901000,
+  "album": "不确定性",
+  "note_url": "https://www.xiaohongshu.com/explore/692ba8a4000000001b027868",
+  "xsec_token": "ABx-zhe9nCItSvHortIZSAR-waWhVnV9WzUURBBho9sD8="
+}

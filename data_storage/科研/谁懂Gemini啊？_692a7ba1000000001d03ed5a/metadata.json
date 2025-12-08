@@ -1,0 +1,68 @@
+{
+  "note_id": "692a7ba1000000001d03ed5a",
+  "title": "谁懂Gemini啊？",
+  "desc": "有没有懂哥懂姐知道为什么我的Gemini上传文献PDF后生成不了ppt啊？#aippt生成[话题]# #Gemini[话题]# #文献汇报[话题]# #Gemini做PPT[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kvg4n244k505oaoepv0j2m5l566kig?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "65aa078b00000000020025cd",
+      "name": "aippt生成",
+      "type": "topic"
+    },
+    {
+      "id": "606c2306000000000100487a",
+      "name": "Gemini",
+      "type": "topic"
+    },
+    {
+      "id": "6114ad84000000000101db70",
+      "name": "文献汇报",
+      "type": "topic"
+    },
+    {
+      "id": "692a7b8d000000002302de93",
+      "name": "Gemini做PPT",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "live_photo": false,
+      "stream": {},
+      "height": 1751,
+      "width": 4029,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/f4218884f0164d1754a6b3bd3b15e40c/notes_uhdr/1040g3qg31pf5qf8pi4005oaoepv0j2m5kevs438!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/21cca98c1e92238f44be4791a36b0884/notes_uhdr/1040g3qg31pf5qf8pi4005oaoepv0j2m5kevs438!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/f4218884f0164d1754a6b3bd3b15e40c/notes_uhdr/1040g3qg31pf5qf8pi4005oaoepv0j2m5kevs438!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/21cca98c1e92238f44be4791a36b0884/notes_uhdr/1040g3qg31pf5qf8pi4005oaoepv0j2m5kevs438!nd_dft_wgth_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1764391842000,
+  "last_update_time": 1764391842000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/692a7ba1000000001d03ed5a",
+  "xsec_token": "ABe1b-CTYcYp4x6a9piNezA7fGx54xyGJbYS-3u5Iyheo="
+}

@@ -1,0 +1,151 @@
+{
+  "note_id": "6905c32f0000000007014f38",
+  "title": "研究生骑共享单车下坡发现梯度消失了怎么办",
+  "desc": "1、采用批量归一化（BatchNorm）：寻找其他正在下坡的研究生(Grad Descent)组成一个批量。通过观察和计算，得出整个批量的平均速度和方差，然后将自己的速度归一化到该批量的平均水平，从而避免因个体速度过快或过慢导致的训练失败。\n2、引入残差连接：在坡顶和坡底之间建立一个短路连接，例如寻找一条更陡峭的直路或台阶直接下去。这样可以绕过当前梯度消失的网络层，让梯度能够直接从输入传递到输出。\n3、更换激活函数：检查当前的制动系统，若制动力度与效果不呈线性关系，建议更换为线性整流单元（ReLU），简单来说就是直接用脚进行制动，只要脚接触地面，就能立刻产生一个线性的、强大的反向梯度。\n4、降低网络深度：目前的网络可能太深了，导致梯度在反向传播的过程中逐渐消失。最直接的解决方案是立刻换一个层数较浅的网络，即找一个更短、更简单的坡。\n结论： 该问题充分暴露了共享单车在处理复杂地形数据时，面临的泛化能力不足的严重问题。单纯依赖单一的梯度下降算法是极其危险的。为了解决这一世界性难题，建议立即申请科研经费，引入注意力机制，并开发一种自适应学习率的优化器，例如自己买辆好点的单车，配备一个自适应矩估计引擎，以应对未来更为复杂的训练环境。\n#科研[话题]# #很担心研究生的精神状态[话题]# #深度学习[话题]# #共享单车[话题]# #读研的精神状态[话题]# #梯度下降[话题]# #Aplus云组会[话题]# #抽象[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31phoku39k06g5pakdtfgl2m0k0kt26o?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5be635a9d111a50001a4436e",
+      "name": "科研",
+      "type": "topic"
+    },
+    {
+      "id": "65abe87600000000020034c6",
+      "name": "很担心研究生的精神状态",
+      "type": "topic"
+    },
+    {
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习",
+      "type": "topic"
+    },
+    {
+      "id": "5becfd17f575fa0001e39203",
+      "name": "共享单车",
+      "type": "topic"
+    },
+    {
+      "id": "650ea4fe000000000e0330d9",
+      "name": "读研的精神状态",
+      "type": "topic"
+    },
+    {
+      "id": "626419bc0000000001002c3b",
+      "name": "梯度下降",
+      "type": "topic"
+    },
+    {
+      "id": "6905c3140000000025034a9d",
+      "name": "Aplus云组会",
+      "type": "topic"
+    },
+    {
+      "id": "668250b5000000000301bd57",
+      "name": "抽象",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 2400,
+      "width": 1440,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/70e331f11228ebd790272317d8adc694/1040g00831obabm1nl2605pakdtfgl2m0raeag1o!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/e0e8fd325943fa884c7112e066eac2f5/1040g00831obabm1nl2605pakdtfgl2m0raeag1o!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/70e331f11228ebd790272317d8adc694/1040g00831obabm1nl2605pakdtfgl2m0raeag1o!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/e0e8fd325943fa884c7112e066eac2f5/1040g00831obabm1nl2605pakdtfgl2m0raeag1o!nd_dft_wlteh_webp_3"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/f18a58a90fef223f43d659ecf7ac61a1/1040g00831obabm1nl2505pakdtfgl2m00sl4sqg!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/bfc83e26478712c499d049131b47ae61/1040g00831obabm1nl2505pakdtfgl2m00sl4sqg!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "height": 2400,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/f18a58a90fef223f43d659ecf7ac61a1/1040g00831obabm1nl2505pakdtfgl2m00sl4sqg!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/bfc83e26478712c499d049131b47ae61/1040g00831obabm1nl2505pakdtfgl2m00sl4sqg!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": ""
+    },
+    {
+      "live_photo": false,
+      "height": 2400,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/839f578143a6951dbf89fd46da73c564/1040g00831obabm1nl25g5pakdtfgl2m0sou67c0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/1a7576a845fb74bcce2551385f033a56/1040g00831obabm1nl25g5pakdtfgl2m0sou67c0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/839f578143a6951dbf89fd46da73c564/1040g00831obabm1nl25g5pakdtfgl2m0sou67c0!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/1a7576a845fb74bcce2551385f033a56/1040g00831obabm1nl25g5pakdtfgl2m0sou67c0!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "width": 1440,
+      "trace_id": "",
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/fd8bbaebf982d40641b957ae2a1289bc/1040g00831obabm1nl2305pakdtfgl2m0ppbpq60!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/ebe622fc7a031320674350cd205e633e/1040g00831obabm1nl2305pakdtfgl2m0ppbpq60!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/fd8bbaebf982d40641b957ae2a1289bc/1040g00831obabm1nl2305pakdtfgl2m0ppbpq60!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/ebe622fc7a031320674350cd205e633e/1040g00831obabm1nl2305pakdtfgl2m0ppbpq60!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 850,
+      "width": 750,
+      "trace_id": ""
+    }
+  ],
+  "video_url": "",
+  "time": 1761985327000,
+  "last_update_time": 1761989423000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/6905c32f0000000007014f38",
+  "xsec_token": "ABQVzpKHJFAIgVPbikFOxXlAbFDfFZihNqraBTmLbELn8="
+}

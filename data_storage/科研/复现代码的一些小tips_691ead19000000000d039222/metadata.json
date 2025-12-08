@@ -1,0 +1,98 @@
+{
+  "note_id": "691ead19000000000d039222",
+  "title": "复现代码的一些小tips",
+  "desc": "环境配置别偷懒\n很多同学看到requirements.txt就直接pip install -r,然后就开始祈祷不要报错。这样做十有八九会出问题。我的习惯是先创建一个干净的conda虚拟环境,Python版本跟作者保持一致,然后再装依赖。\n更重要的是要看清楚CUDA版本。有些项目对CUDA版本要求很严格,你装了CUDA 12.0但代码要求11.8,那肯定跑不通。我现在都会用nvidia-smi先看看服务器的CUDA版本,然后去PyTorch官网找对应版本的安装命令。还有个容易忽略的点是cudnn,有些项目需要特定版本,得自己去issue里翻。\n\t\n依赖版本要锁死\n我见过太多同学装依赖的时候不指定版本,直接pip install numpy,结果装了最新版,跟代码不兼容。深度学习的库更新很快,API经常变,版本不对真的会出各种诡异的bug。\n我的做法是严格按照requirements.txt的版本装,如果没有就去setup.py里找。特别提醒一下,transformers这种库版本差异很大,4.20和4.30的API就不太一样,一定要对版本。\n\t\n数据路径别写死\n很多开源代码的数据路径是硬编码的,比如/home/author/datasets/coco,你直接跑肯定找不到文件。我现在拿到代码第一件事就是全局搜索绝对路径,改成相对路径或者配置文件里的路径。\n还有就是数据格式。有些项目README写的是支持COCO格式,但实际上代码里做了一些自定义的预处理。我之前复现一个分割项目,卡在数据加载上好几天,后来发现作者对mask做了特殊的编码。\n\t\n预训练权重要对版本\n下载预训练权重的时候要注意,有些项目用的是旧版本模型的权重,直接加载到新版本代码会报错。我的经验是先看看权重文件的key,跟代码里model的key对不对得上。\n还有一个坑是权重格式。有些是.pth,有些是.ckpt,有些是.safetensors,加载方式不一样。要仔细看看加载权重那部分的代码。\n\t\n随机种子必须设\n很多同学复现完发现结果跟论文差挺多,第一反应是代码有bug。其实很多时候是随机种子的问题。我现在复现代码都会加上固定种子的代码,包括torch、numpy、random、cudnn的种子都要设。而且要把cudnn.deterministic设成True,虽然训练会慢一点,但结果可复现。\n\t\n先跑通再改动\n不要拿到代码就开始改,加自己的模块、换数据集,结果跑不通了也不知道是原始代码的问题还是自己改的问题。我的建议是先用作者的配置、作者的数据跑通baseline,确认没问题了再一点点改。每改一个地方就测一次。\n#深度学习[话题]# #发文[话题]# #复现[话题]# #机器学习[话题]# #算法改进[话题]##python[话题]##跑通[话题]##一对一指导[话题]##调参[话题]##部署[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ntjhglr5m6g5p0c20g528ht01nl5bg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习",
+      "type": "topic"
+    },
+    {
+      "id": "5dafed04000000000103f685",
+      "name": "发文",
+      "type": "topic"
+    },
+    {
+      "id": "63c53cad000000000100447e",
+      "name": "复现",
+      "type": "topic"
+    },
+    {
+      "id": "5c6bb611000000000f0101ee",
+      "name": "机器学习",
+      "type": "topic"
+    },
+    {
+      "id": "621f4377000000000101e8a8",
+      "name": "算法改进",
+      "type": "topic"
+    },
+    {
+      "id": "608b992400000000010089c5",
+      "name": "python",
+      "type": "topic"
+    },
+    {
+      "id": "661788a4000000000201bbdf",
+      "name": "跑通",
+      "type": "topic"
+    },
+    {
+      "id": "61075b8c000000000100a910",
+      "name": "一对一指导",
+      "type": "topic"
+    },
+    {
+      "id": "622f5e390000000001003458",
+      "name": "调参",
+      "type": "topic"
+    },
+    {
+      "id": "61727d7d000000000101e07b",
+      "name": "部署",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "width": 1200,
+      "url": "",
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041102/48a6ac843f808af400ab60a456c9f5da/1040g2sg31p3kq31u2gk05p0c20g528htbdmfuno!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 1600,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/8d334bb3ead2587260e0ca1bc6031dd9/1040g2sg31p3kq31u2gk05p0c20g528htbdmfuno!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041102/48a6ac843f808af400ab60a456c9f5da/1040g2sg31p3kq31u2gk05p0c20g528htbdmfuno!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041102/8d334bb3ead2587260e0ca1bc6031dd9/1040g2sg31p3kq31u2gk05p0c20g528htbdmfuno!nd_prv_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1763618073000,
+  "last_update_time": 1763618074000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/691ead19000000000d039222",
+  "xsec_token": "ABgOz7_HLfbPsK28ZNj4bB67j2mLSSrd1zI8s-aGVMz2A="
+}

@@ -1,0 +1,93 @@
+{
+  "note_id": "6923ef70000000000d00d72f",
+  "title": "1.8万star！让你的Claude code战斗力爆表",
+  "desc": "#人工智能[话题]# #深度学习[话题]# #机器学习[话题]# #大模型[话题]# #Claude[话题]# #科研学习[话题]# #提供思路和创新点[话题]# #科研[话题]# #code[话题]#",
+  "type": "video",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ema46sp505g5ptc0rvj94886nu0mso?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "name": "人工智能",
+      "type": "topic",
+      "id": "620cd421000000000100130c"
+    },
+    {
+      "name": "深度学习",
+      "type": "topic",
+      "id": "5e7fe6610000000001009356"
+    },
+    {
+      "id": "5c6bb611000000000f0101ee",
+      "name": "机器学习",
+      "type": "topic"
+    },
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "610ae4710000000001001741",
+      "name": "Claude",
+      "type": "topic"
+    },
+    {
+      "id": "5e06aec400000000010082fe",
+      "name": "科研学习",
+      "type": "topic"
+    },
+    {
+      "id": "6561b1e00000000023023ce1",
+      "name": "提供思路和创新点",
+      "type": "topic"
+    },
+    {
+      "id": "5be635a9d111a50001a4436e",
+      "name": "科研",
+      "type": "topic"
+    },
+    {
+      "id": "5c7f081e000000000e015801",
+      "name": "code",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "width": 1920,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/81c22b1941d32ad67b225f3c113942b1/1040g2sg31p8p54gf2ujg5pu9bnu1jjdl8oessv0!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041112/be4a96a49c115a50d1c3936357932529/1040g2sg31p8p54gf2ujg5pu9bnu1jjdl8oessv0!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041112/81c22b1941d32ad67b225f3c113942b1/1040g2sg31p8p54gf2ujg5pu9bnu1jjdl8oessv0!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041112/be4a96a49c115a50d1c3936357932529/1040g2sg31p8p54gf2ujg5pu9bnu1jjdl8oessv0!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "height": 1080,
+      "url": "",
+      "trace_id": ""
+    }
+  ],
+  "video_url": "",
+  "time": 1763962736000,
+  "last_update_time": 1763962736000,
+  "album": "ClaudeCode",
+  "note_url": "https://www.xiaohongshu.com/explore/6923ef70000000000d00d72f",
+  "xsec_token": "ABt8-YzZ5egtXIxH_sNpC7oqSTn_0tCQxnlmqnVS0U-KU="
+}

@@ -1,0 +1,136 @@
+{
+  "note_id": "692a9cdc000000001e00ab2f",
+  "title": "推荐一个LLM新手项目",
+  "desc": "之前有人问我找LLM实习简历上的项目，我个人做事比较倾向于稳扎稳打，对我来说求快会很心慌，所以简历上项目都是自己实验室和公司的项目一点点包装打磨出来的，所以不能直接提供给大家。\n不过其实去除项目背景、业务背景等等信息之后，项目的整体思路是一样的，本质上还是大模型训练的一些内容。\n所以这里推荐一个我之前有实操过的github项目，整体对显卡的需求不大，在一块A100上应该就行，虽然项目很简单，但是对于对大模型没概念的新同学，可以建议一个LLM训练的整体概念，感觉对入门很友好。\n自己有了概念之后再去包装自己现有的项目就会明确知道该往哪里去改啦~\n\t\n#大模型[话题]# #算法[话题]# #日常实习[话题]# #计算机科学[话题]# #AI[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jkd4qdm326g5o0q0vn0bmvvrij2ku8?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "624d11eb000000000101e223",
+      "name": "大模型",
+      "type": "topic"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    },
+    {
+      "id": "6077a064000000000101e5bb",
+      "name": "日常实习",
+      "type": "topic"
+    },
+    {
+      "id": "5e4e96a7000000000100451c",
+      "name": "计算机科学",
+      "type": "topic"
+    },
+    {
+      "id": "5d6b7cdb000000000103e136",
+      "name": "AI",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "file_id": "",
+      "height": 2400,
+      "width": 1440,
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/77b52345f9c592e669378b66f1915d98/spectrum/1040g0k031pf9ksma2c005o0q0vn0bmvv435ri1g!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/48b21978d83f5868f381d0ad1f5e8ff2/spectrum/1040g0k031pf9ksma2c005o0q0vn0bmvv435ri1g!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/77b52345f9c592e669378b66f1915d98/spectrum/1040g0k031pf9ksma2c005o0q0vn0bmvv435ri1g!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/48b21978d83f5868f381d0ad1f5e8ff2/spectrum/1040g0k031pf9ksma2c005o0q0vn0bmvv435ri1g!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/731ed59489a93582bd6d1fece7061baf/spectrum/1040g0k031pf9ksma2c0g5o0q0vn0bmvvqtd9hu8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/dab2167257fdbc4da7ea14a38d65163f/spectrum/1040g0k031pf9ksma2c0g5o0q0vn0bmvvqtd9hu8!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/731ed59489a93582bd6d1fece7061baf/spectrum/1040g0k031pf9ksma2c0g5o0q0vn0bmvvqtd9hu8!nd_prv_wlteh_webp_3",
+      "height": 2400,
+      "width": 1440,
+      "trace_id": "",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/dab2167257fdbc4da7ea14a38d65163f/spectrum/1040g0k031pf9ksma2c0g5o0q0vn0bmvvqtd9hu8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/5e7c8222b6187ae1bbbcbf2a6790669d/spectrum/1040g0k031pf9ll6ji6005o0q0vn0bmvve6ulc08!nd_dft_wgth_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 954,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/5fc246f4d734fb26471de1465bfe6453/spectrum/1040g0k031pf9ll6ji6005o0q0vn0bmvve6ulc08!nd_prv_wgth_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/5e7c8222b6187ae1bbbcbf2a6790669d/spectrum/1040g0k031pf9ll6ji6005o0q0vn0bmvve6ulc08!nd_dft_wgth_webp_3"
+        }
+      ],
+      "width": 1872,
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/5fc246f4d734fb26471de1465bfe6453/spectrum/1040g0k031pf9ll6ji6005o0q0vn0bmvve6ulc08!nd_prv_wgth_webp_3",
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "height": 895,
+      "width": 940,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/ecab1573b44777cec850f8bd9f1ca718/spectrum/1040g0k031pf9ll6ji60g5o0q0vn0bmvv665egfo!nd_prv_wgth_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041115/279477401f4e36a2f74e95432f1ed067/spectrum/1040g0k031pf9ll6ji60g5o0q0vn0bmvv665egfo!nd_dft_wgth_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041115/ecab1573b44777cec850f8bd9f1ca718/spectrum/1040g0k031pf9ll6ji60g5o0q0vn0bmvv665egfo!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041115/279477401f4e36a2f74e95432f1ed067/spectrum/1040g0k031pf9ll6ji60g5o0q0vn0bmvv665egfo!nd_dft_wgth_webp_3",
+      "stream": {},
+      "url": "",
+      "trace_id": "",
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1764400348000,
+  "last_update_time": 1764400349000,
+  "album": "大模型项目",
+  "note_url": "https://www.xiaohongshu.com/explore/692a9cdc000000001e00ab2f",
+  "xsec_token": "ABe1b-CTYcYp4x6a9piNezA3kXnoZdg0qcJgDDnF3KRKY="
+}

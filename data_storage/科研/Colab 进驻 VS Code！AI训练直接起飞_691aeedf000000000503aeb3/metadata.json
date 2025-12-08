@@ -1,0 +1,188 @@
+{
+  "note_id": "691aeedf000000000503aeb3",
+  "title": "Colab 进驻 VS Code！AI训练直接起飞",
+  "desc": "Google Colab 官方扩展终于上线 VS Code，引发 X 上一堆开发者狂刷“game changer”“this is massive”。\n\t\n这次更新的意义很简单：\n本地继续用顺手的 VS Code 写代码，训练直接用 Colab 的免费 GPU/TPU，做 LLM 微调、跑 RAG pipeline、生成模型预处理、课程作业、研究 Demo，都能在一个窗口完成，真正把“本地 IDE 舒适度 + 云端算力”合到一起了。\n\t\n官方博客也给了一个超简单上手流程：\n1.在 VS Code marketplace 安装「Google Colab」扩展\n2.打开任意 .ipynb 文件\n3.选择 kernel → 选 Colab\n4.登录 Google，就能直接跑云端 Compute\n\t\n网页端 Colab 最容易被吐槽的补全弱、界面卡、插件少，借助 VS Code 都一次性解决。而 VS Code 用户想要的 GPU/TPU 加速，也终于不用自己折腾环境了。\n\t\n目前大家反馈的一两个小坑： 免费 GPU 还是会有时长限制+一些用户说暂时访问不到常规 Colab 目录，但对大多数 AI 应用场景不构成阻碍。\n\t\n#VSCode[话题]#  #GoogleColab[话题]#  #AI训练[话题]#  #免费GPU[话题]#  #大模型开发[话题]#  #深度学习工具[话题]#  #MistAI[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p0u22qp2u005q124o22ngju41h3a7g?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "607ed6a5000000000101cc82",
+      "name": "VSCode",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "61a4863d000000000100554e",
+      "name": "GoogleColab"
+    },
+    {
+      "id": "6324c191000000000101c012",
+      "name": "AI训练",
+      "type": "topic"
+    },
+    {
+      "id": "65c37b350000000013016408",
+      "name": "免费GPU",
+      "type": "topic"
+    },
+    {
+      "id": "64f94cd200000000040023dd",
+      "name": "大模型开发",
+      "type": "topic"
+    },
+    {
+      "id": "64afc607000000003701a450",
+      "name": "深度学习工具",
+      "type": "topic"
+    },
+    {
+      "id": "691aeeb700000000240016e1",
+      "name": "MistAI",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "trace_id": "",
+      "live_photo": false,
+      "url": "",
+      "height": 1660,
+      "width": 1206,
+      "info_list": [
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/d056eac6902b7ed8d7f0129c76e5f747/spectrum/1040g0k031ovvqvg228005q124o22ngjurk8v7o0!nd_prv_wlteh_webp_3",
+          "image_scene": "WB_PRV"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/e96e33107b7a86b1240a93cc1aa733d6/spectrum/1040g0k031ovvqvg228005q124o22ngjurk8v7o0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/d056eac6902b7ed8d7f0129c76e5f747/spectrum/1040g0k031ovvqvg228005q124o22ngjurk8v7o0!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/e96e33107b7a86b1240a93cc1aa733d6/spectrum/1040g0k031ovvqvg228005q124o22ngjurk8v7o0!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": ""
+    },
+    {
+      "width": 1280,
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/2d27753bc3e95477258f646bf1516846/spectrum/1040g34o31ovvr21j100g5q124o22ngju98l1ir8!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "file_id": "",
+      "url": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/2d27753bc3e95477258f646bf1516846/spectrum/1040g34o31ovvr21j100g5q124o22ngju98l1ir8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/2bfdd1c4450ac1c613f95ff31fa55936/spectrum/1040g34o31ovvr21j100g5q124o22ngju98l1ir8!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/2bfdd1c4450ac1c613f95ff31fa55936/spectrum/1040g34o31ovvr21j100g5q124o22ngju98l1ir8!nd_dft_wlteh_webp_3",
+      "height": 1707
+    },
+    {
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/b1984e29ddc9a63e0db925e359bd2e23/spectrum/1040g34o31ovvr3900u0g5q124o22ngjuofopk98!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 1707,
+      "url": "",
+      "live_photo": false,
+      "width": 1280,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/b1984e29ddc9a63e0db925e359bd2e23/spectrum/1040g34o31ovvr3900u0g5q124o22ngjuofopk98!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/828b6c98d41c3fd8f7fe0606195eea07/spectrum/1040g34o31ovvr3900u0g5q124o22ngjuofopk98!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/828b6c98d41c3fd8f7fe0606195eea07/spectrum/1040g34o31ovvr3900u0g5q124o22ngjuofopk98!nd_dft_wlteh_webp_3"
+    },
+    {
+      "width": 1280,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/bad242ec00298afac38ec61700de4b7e/spectrum/1040g34o31ovvr49ni6005q124o22ngjuomiicu8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/637ca9dd69236091e4547cce64866757/spectrum/1040g34o31ovvr49ni6005q124o22ngjuomiicu8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/bad242ec00298afac38ec61700de4b7e/spectrum/1040g34o31ovvr49ni6005q124o22ngjuomiicu8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/637ca9dd69236091e4547cce64866757/spectrum/1040g34o31ovvr49ni6005q124o22ngjuomiicu8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "file_id": "",
+      "height": 1707,
+      "url": "",
+      "trace_id": "",
+      "live_photo": false
+    },
+    {
+      "file_id": "",
+      "height": 1608,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/04d75b92e0f1852ee755492262fdcd1f/spectrum/1040g0k031ovvr562i4005q124o22ngju4lhoqoo!nd_dft_wlteh_webp_3",
+      "live_photo": false,
+      "width": 1206,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/69d002f2d162a88a456270cdfe5898e7/spectrum/1040g0k031ovvr562i4005q124o22ngju4lhoqoo!nd_prv_wlteh_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/04d75b92e0f1852ee755492262fdcd1f/spectrum/1040g0k031ovvr562i4005q124o22ngju4lhoqoo!nd_dft_wlteh_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/69d002f2d162a88a456270cdfe5898e7/spectrum/1040g0k031ovvr562i4005q124o22ngju4lhoqoo!nd_prv_wlteh_webp_3",
+      "stream": {}
+    },
+    {
+      "file_id": "",
+      "width": 1206,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041103/2df3c9ff7b5fe909ef07207ac230a877/spectrum/1040g0k031ovvr6kg26005q124o22ngju1ohmqgo!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1608,
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/2df3c9ff7b5fe909ef07207ac230a877/spectrum/1040g0k031ovvr6kg26005q124o22ngju1ohmqgo!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041103/d9753bc6d5ab873e9f74618003ffe816/spectrum/1040g0k031ovvr6kg26005q124o22ngju1ohmqgo!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041103/d9753bc6d5ab873e9f74618003ffe816/spectrum/1040g0k031ovvr6kg26005q124o22ngju1ohmqgo!nd_dft_wlteh_webp_3"
+    }
+  ],
+  "video_url": "",
+  "time": 1763372767000,
+  "last_update_time": 1763372767000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/691aeedf000000000503aeb3",
+  "xsec_token": "ABH6RZEWJNyN2-dT8yJbH1PMzwvdgIDt888RjnI-KxoaA="
+}

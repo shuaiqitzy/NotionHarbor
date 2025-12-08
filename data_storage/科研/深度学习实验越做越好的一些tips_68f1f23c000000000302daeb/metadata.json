@@ -1,0 +1,98 @@
+{
+  "note_id": "68f1f23c000000000302daeb",
+  "title": "深度学习实验越做越好的一些tips",
+  "desc": "[一R] 可视化是第一生产力\n我现在做任何实验都会花时间画图。loss曲线、attention map、特征分布这些我都会看，而不是盯着mAP或者accuracy那个单一数字。有次我的模型train loss下降得特别快但validation loss飙升，如果只看最终指标还以为代码有bug呢。后来画出来才发现是过拟合，调整正则就搞定了。\n\t\n[二R] 实验记录要有章法\n我前两年实验记录就是个混乱的文本文件，后来每次都要翻半天才能找到某个baseline的参数。现在我养成习惯就是建一个csv表格，记录每个实验的config、结果、关键观察。这样不仅方便查询，还能帮我看清楚实验的演进路径。有时候回头翻看才发现某个早期尝试其实很有价值，只是当时没有深入追究。\n\t\n[三R] 小数据集快速验证很关键\n别一上来就全量数据跑。我现在验证新idea都是先在1000-5000张图上试，训练个20 epoch看loss趋势。这个阶段不求精度，就看方法在理论上是否可行。如果连小数据都work不了，说明思路可能就有问题，没必要浪费整个晚上的GPU资源。快速迭代真的能节省太多时间。\n\t\n[四R] 对比实验的baseline要稳定\n这个很多人容易忽略。我会在跑新方法之前，先把baseline跑个5-10次取平均值。因为有时候你以为的improvement其实只是随机波动。加上seed固定和完整的超参数记录，这样再对比新方法就有说服力了。最烦的就是被reviewer问为什么提升这么多，结果自己也说不清是不是真的improvement。\n\t\n[五R] 梯度流和数值稳定很重要\n我现在改模型第一件事就是过一遍forward和backward检查有没有问题。用hook监控梯度分布，看看有没有梯度消失或者爆炸的地方。花十分钟检查，能避免后面一晚上的瞎折腾。\n\t\n[六R] 学会从badcase里找灵感\n我做过最有成果的工作，其实都是从仔细分析badcase开始的。把模型预测错的样本分组看，是小目标漏检、长尾类别混淆，还是特殊光照条件下失败。这些具体的失败模式能直接指导你改进方向。比我盲目试新模块有用多了。\n\t\n把这些习惯积累起来了。越认真对待每个细节，实验效果就越好。\n\t\n#深度学习[话题]# #实验[话题]# #计算机[话题]# #代码[话题]# #baseline[话题]# #代码跑通[话题]# #代码复现[话题]#  #可视化[话题]# #python[话题]# #大模型[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/64379f939329aa25ed92d02a.jpg?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习",
+      "type": "topic"
+    },
+    {
+      "id": "5be5898fbdc8eb0001d35274",
+      "name": "实验",
+      "type": "topic"
+    },
+    {
+      "id": "5bfa12489c1d82000102c324",
+      "name": "计算机",
+      "type": "topic"
+    },
+    {
+      "id": "5c728783000000000f01bd23",
+      "name": "代码",
+      "type": "topic"
+    },
+    {
+      "name": "baseline",
+      "type": "topic",
+      "id": "617f8dc00000000001002563"
+    },
+    {
+      "id": "654858d3000000001402b1ff",
+      "name": "代码跑通",
+      "type": "topic"
+    },
+    {
+      "id": "6215ea34000000000100b69e",
+      "name": "代码复现",
+      "type": "topic"
+    },
+    {
+      "id": "5d6357ed000000000103f667",
+      "name": "可视化",
+      "type": "topic"
+    },
+    {
+      "id": "608b992400000000010089c5",
+      "name": "python",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "624d11eb000000000101e223",
+      "name": "大模型"
+    }
+  ],
+  "image_list": [
+    {
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041106/2eb8c0a295efb9adb830438b40321b15/1040g00831nntpn3img6g5oq4qpl655q9srgd6q8!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041106/8d6f0178497c6dce8aecca0b44fd63fc/1040g00831nntpn3img6g5oq4qpl655q9srgd6q8!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "height": 1600,
+      "width": 1200,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/2eb8c0a295efb9adb830438b40321b15/1040g00831nntpn3img6g5oq4qpl655q9srgd6q8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041106/8d6f0178497c6dce8aecca0b44fd63fc/1040g00831nntpn3img6g5oq4qpl655q9srgd6q8!nd_dft_wlteh_webp_3"
+        }
+      ]
+    }
+  ],
+  "video_url": "",
+  "time": 1760686652000,
+  "last_update_time": 1760686652000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68f1f23c000000000302daeb",
+  "xsec_token": "ABnMoeuYyd90H8Mwqu3-mY3jCJkgeoS19lQcnpDDVdBL4="
+}

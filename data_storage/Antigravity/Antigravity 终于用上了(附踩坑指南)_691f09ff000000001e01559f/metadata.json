@@ -1,0 +1,73 @@
+{
+  "note_id": "691f09ff000000001e01559f",
+  "title": "Antigravity 终于用上了(附踩坑指南)",
+  "desc": "也是用上了，明天周五上班可以摸鱼让它给干活了。\n1，尽量使用美国，新加坡等干净jie点\n2，tun模式，也叫虚拟网卡模式，这个比较关键，我一直登不上就是这个原因，不过有的客户端没有这个模式，我用的是 clash ver*** 省略了\n3，第二步成了还是会进不去，重点来了，google账号要用非学生认证的，由于前段时间gemini学生可以免费1年，估计很多人都认证了学生身份。\n#gemini3[话题]# #ai[话题]# #google[话题]# #gemini[话题]# #ai[话题]# #ai编程[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31flh2ponni005ppp2g8ndu803fvcp5g?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "6841811b0000000018009a9e",
+      "name": "gemini3",
+      "type": "topic"
+    },
+    {
+      "id": "5c1c3c9a000000000a030af3",
+      "name": "ai",
+      "type": "topic"
+    },
+    {
+      "id": "5bea088b85cfbb000108056b",
+      "name": "google",
+      "type": "topic"
+    },
+    {
+      "id": "5d2acf50000000001803fa96",
+      "name": "gemini",
+      "type": "topic"
+    },
+    {
+      "id": "643ae66f000000002e01feb9",
+      "name": "ai编程",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "height": 1912,
+      "width": 2940,
+      "url": "",
+      "file_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/14f49da274258ca47333c0b7fd732a3f/notes_pre_post/1040g3k031p400oeki8005ppp2g8ndu80ks337gg!nd_prv_wgth_webp_3"
+        },
+        {
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041117/0cdca7f7713f109a0ac2ae73e682da82/notes_pre_post/1040g3k031p400oeki8005ppp2g8ndu80ks337gg!nd_dft_wgth_webp_3",
+          "image_scene": "WB_DFT"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041117/14f49da274258ca47333c0b7fd732a3f/notes_pre_post/1040g3k031p400oeki8005ppp2g8ndu80ks337gg!nd_prv_wgth_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041117/0cdca7f7713f109a0ac2ae73e682da82/notes_pre_post/1040g3k031p400oeki8005ppp2g8ndu80ks337gg!nd_dft_wgth_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "trace_id": ""
+    }
+  ],
+  "video_url": "",
+  "time": 1763641855000,
+  "last_update_time": 1763641855000,
+  "album": "Antigravity",
+  "note_url": "https://www.xiaohongshu.com/explore/691f09ff000000001e01559f",
+  "xsec_token": "ABYLubVGFjkOShu-rCKB2KtDuCyn7Vz_TZr0jfjxUD7eA="
+}

@@ -1,0 +1,193 @@
+{
+  "note_id": "68fca4c20000000005030f33",
+  "title": "突然发现他们把transformer说得好清晰！",
+  "desc": "Afshine Amidi和Shervine Amidi共同撰写的《Super Study Guide:Transformers and Large Language Models》是一本专注于大语言模型和Transformer架构的指南。这本书凭借其清晰易懂的讲解和详尽的图示脱颖而出，旨在帮助读者快速理解大语言模型的核心原理。全书分为五个部分：基础篇、嵌入篇、Transformer篇、大语言模型篇和应用篇。\n\t\n基础篇为读者提供了坚实的理论基础，深入讲解了神经网络和深度学习的关键概念。嵌入篇则聚焦于分词算法、词嵌入和句子嵌入等重要技术。在Transformer篇中，书中详细分析了自注意力机制、编码器-解码器架构，以及BERT、GPT和T5等不同变种。大语言模型篇着重探讨了基于Transformer模型的调优策略。应用篇则涵盖了情感分析、机器翻译和检索增强生成等热门应用领域。\n\t\n这本书非常适合那些希望快速掌握大语言模型理论的读者，无论是为了面试、项目开发还是个人兴趣。尽管书中没有提供大量代码供读者实践，但它对自然语言处理（NLP）、Transformer和大语言模型（LLM）的核心概念进行了简洁明了的介绍，能够帮助读者快速构建对LLM理论的理解。此外，书中丰富的图表也为读者理解Transformer原理和LLM训练过程提供了极大的帮助。\n#机器学习[话题]##深度学习[话题]##人工智能[话题]##大语言模型[话题]##Transformer[话题]##自然语言处理[话题]##LLM[话题]##算法[话题]#",
+  "type": "normal",
+  "user": {
+    "user_id": "",
+    "nickname": "",
+    "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnr36okl86g5q6l05j8c9m4scnsd30?imageView2/2/w/60/format/webp|imageMogr2/strip"
+  },
+  "interact_info": {
+    "liked_count": 0,
+    "collected_count": 0,
+    "comment_count": 0,
+    "share_count": 0
+  },
+  "tag_list": [
+    {
+      "id": "5c6bb611000000000f0101ee",
+      "name": "机器学习",
+      "type": "topic"
+    },
+    {
+      "id": "5e7fe6610000000001009356",
+      "name": "深度学习",
+      "type": "topic"
+    },
+    {
+      "id": "620cd421000000000100130c",
+      "name": "人工智能",
+      "type": "topic"
+    },
+    {
+      "type": "topic",
+      "id": "638eeead00000000010012a5",
+      "name": "大语言模型"
+    },
+    {
+      "type": "topic",
+      "id": "603663660000000001002495",
+      "name": "Transformer"
+    },
+    {
+      "type": "topic",
+      "id": "60eba91f00000000010001e4",
+      "name": "自然语言处理"
+    },
+    {
+      "id": "5e4b88d100000000010023d8",
+      "name": "LLM",
+      "type": "topic"
+    },
+    {
+      "id": "5c1a11ad0000000003018202",
+      "name": "算法",
+      "type": "topic"
+    }
+  ],
+  "image_list": [
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/30c02f8c827f6767dfcd6d06eda73b72/notes_pre_post/1040g3k031o2d6j2d5md05q6l05j8c9m4f79lt38!nd_dft_wlteh_webp_3",
+      "file_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/9a1efabd29b437ca426b62482b2bdef2/notes_pre_post/1040g3k031o2d6j2d5md05q6l05j8c9m4f79lt38!nd_prv_wlteh_webp_3",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/9a1efabd29b437ca426b62482b2bdef2/notes_pre_post/1040g3k031o2d6j2d5md05q6l05j8c9m4f79lt38!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/30c02f8c827f6767dfcd6d06eda73b72/notes_pre_post/1040g3k031o2d6j2d5md05q6l05j8c9m4f79lt38!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "live_photo": false,
+      "height": 1618,
+      "width": 1080
+    },
+    {
+      "file_id": "",
+      "height": 1617,
+      "width": 1080,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/3aa3f56b61389a20520bd704d6e6f726/notes_pre_post/1040g3k031o2d6j2d5mcg5q6l05j8c9m4b1sj6l8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/d2f4eddfd48f466bb01fcb7a740efa43/notes_pre_post/1040g3k031o2d6j2d5mcg5q6l05j8c9m4b1sj6l8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "stream": {},
+      "url": "",
+      "trace_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/3aa3f56b61389a20520bd704d6e6f726/notes_pre_post/1040g3k031o2d6j2d5mcg5q6l05j8c9m4b1sj6l8!nd_prv_wlteh_webp_3",
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/d2f4eddfd48f466bb01fcb7a740efa43/notes_pre_post/1040g3k031o2d6j2d5mcg5q6l05j8c9m4b1sj6l8!nd_dft_wlteh_webp_3",
+      "live_photo": false
+    },
+    {
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/71021f7c50a50d45ab67bdf73fa655a8/notes_pre_post/1040g3k031o2d6j2d5m705q6l05j8c9m4c4i0kf8!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "width": 1080,
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/71021f7c50a50d45ab67bdf73fa655a8/notes_pre_post/1040g3k031o2d6j2d5m705q6l05j8c9m4c4i0kf8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/b73ca4ca7bb146d8cabb10ec29a02247/notes_pre_post/1040g3k031o2d6j2d5m705q6l05j8c9m4c4i0kf8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/b73ca4ca7bb146d8cabb10ec29a02247/notes_pre_post/1040g3k031o2d6j2d5m705q6l05j8c9m4c4i0kf8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "height": 1614,
+      "trace_id": ""
+    },
+    {
+      "width": 1080,
+      "url": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/bb41e34e1b21c87c4261df17b481aeef/notes_pre_post/1040g3k031o2d6j2d5mbg5q6l05j8c9m4kai11a8!nd_prv_wlteh_webp_3",
+      "live_photo": false,
+      "file_id": "",
+      "height": 1600,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/fced67d9eaae695019e6979dec609b43/notes_pre_post/1040g3k031o2d6j2d5mbg5q6l05j8c9m4kai11a8!nd_dft_wlteh_webp_3",
+      "stream": {},
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/bb41e34e1b21c87c4261df17b481aeef/notes_pre_post/1040g3k031o2d6j2d5mbg5q6l05j8c9m4kai11a8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/fced67d9eaae695019e6979dec609b43/notes_pre_post/1040g3k031o2d6j2d5mbg5q6l05j8c9m4kai11a8!nd_dft_wlteh_webp_3"
+        }
+      ]
+    },
+    {
+      "file_id": "",
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/59afbeeaeb3d85ce79dd9eee839a349d/notes_pre_post/1040g3k031o2d6j2d5mag5q6l05j8c9m4titumn0!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/cf32020306a65686ce27993ab3ca8ae5/notes_pre_post/1040g3k031o2d6j2d5mag5q6l05j8c9m4titumn0!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/59afbeeaeb3d85ce79dd9eee839a349d/notes_pre_post/1040g3k031o2d6j2d5mag5q6l05j8c9m4titumn0!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false,
+      "height": 1620,
+      "width": 1080,
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/cf32020306a65686ce27993ab3ca8ae5/notes_pre_post/1040g3k031o2d6j2d5mag5q6l05j8c9m4titumn0!nd_dft_wlteh_webp_3"
+    },
+    {
+      "url_default": "http://sns-webpic-qc.xhscdn.com/202512041104/12403739141f43bf8a9cd84f12b9ae0b/notes_pre_post/1040g3k031o2d6j2d5mc05q6l05j8c9m4s120ph8!nd_dft_wlteh_webp_3",
+      "height": 1622,
+      "width": 1080,
+      "url": "",
+      "trace_id": "",
+      "info_list": [
+        {
+          "image_scene": "WB_PRV",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/cba862eba1710a4533478c98ce799d95/notes_pre_post/1040g3k031o2d6j2d5mc05q6l05j8c9m4s120ph8!nd_prv_wlteh_webp_3"
+        },
+        {
+          "image_scene": "WB_DFT",
+          "url": "http://sns-webpic-qc.xhscdn.com/202512041104/12403739141f43bf8a9cd84f12b9ae0b/notes_pre_post/1040g3k031o2d6j2d5mc05q6l05j8c9m4s120ph8!nd_dft_wlteh_webp_3"
+        }
+      ],
+      "file_id": "",
+      "url_pre": "http://sns-webpic-qc.xhscdn.com/202512041104/cba862eba1710a4533478c98ce799d95/notes_pre_post/1040g3k031o2d6j2d5mc05q6l05j8c9m4s120ph8!nd_prv_wlteh_webp_3",
+      "stream": {},
+      "live_photo": false
+    }
+  ],
+  "video_url": "",
+  "time": 1761387714000,
+  "last_update_time": 1761387715000,
+  "album": "科研",
+  "note_url": "https://www.xiaohongshu.com/explore/68fca4c20000000005030f33",
+  "xsec_token": "ABoTVmy_RIr-Kn-qzTRGtWMbpwSQBmiIm4gS_84jCmwnE="
+}
