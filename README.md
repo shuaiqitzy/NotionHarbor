@@ -49,7 +49,7 @@
 
 ## 📋 前置要求
 
-- Python 3.11+
+- Python 3.10+
 - Node.js 16.0+（MediaCrawler 依赖）
 - 已安装 Chrome/Chromium 浏览器
 
