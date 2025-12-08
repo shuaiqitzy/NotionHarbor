@@ -65,14 +65,18 @@ cd NotionHarbor
 ### 2. 安装依赖
 
 ```bash
-# 安装 MediaCrawler 依赖（如果需要）
-cd MediaCrawler
-pip install -r requirements.txt
-cd ..
+# 安装 conda 虚拟环境
+conda create -n NotionHarbor python=3.10 -y
+conda activate myenv
 
 # 安装 Playwright 浏览器驱动
 pip install playwright
 playwright install chromium
+
+# 安装 MediaCrawler 依赖（如果需要）
+cd MediaCrawler
+pip install -r requirements.txt
+cd ..
 ```
 
 ### 3. 获取收藏夹数据
