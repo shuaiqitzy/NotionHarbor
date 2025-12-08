@@ -1,3 +1,5 @@
 my_xhs_data.json
 data_storage/*
 !data_storage/.gitkeep
+browser_data/*
+!browser_data/.gitkeep
